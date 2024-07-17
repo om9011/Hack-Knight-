@@ -4,6 +4,7 @@ import {
   getGameStatus,
   invest,
   nextMonth,
+  payIncomeTax,
   payMonthlyExpenses,
   payOffLiability,
   startGame,
@@ -18,5 +19,6 @@ router.get("/collect-monthly-income", collectMonthlyIncome);
 router.get("/pay-monthly-expenses", payMonthlyExpenses);
 // router.post("/invest", invest);
 router.post("/pay-off-liability", payOffLiability);
+router.get("/pay-income-tax", payIncomeTax);
 
 export default router;

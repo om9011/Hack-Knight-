@@ -20,6 +20,7 @@ class Game {
   expensePaid: boolean;
   totalMonths: number;
   isGameOver: boolean;
+  taxPaid: number;
 
   constructor() {
     this.balance = 0;
@@ -64,6 +65,7 @@ class Game {
     this.expensePaid = false;
     this.totalMonths = 5;
     this.isGameOver = false;
+    this.taxPaid = 0;
   }
 
   addIncome(description: string, amount: number): void {
@@ -149,7 +151,7 @@ class Game {
 
   payIncomeTax(): void {
     if (this.balance >= 0) {
-      let incomeTaxPaid = 0.3 * this.balance;
+      this.taxPaid = 0.3 * this.balance;
       this.balance -= 0.7 * this.balance;
     } else {
       throw new Error("Insufficient balance to pay income tax.");

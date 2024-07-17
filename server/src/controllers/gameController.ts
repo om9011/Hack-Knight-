@@ -58,3 +58,14 @@ export const nextMonth = (req: Request, res: Response) => {
     res.status(400).send(error);
   }
 };
+
+export const payIncomeTax = (req: Request, res: Response) => {
+  try {
+    game.payIncomeTax();
+    res.json(game);
+  } catch (error) {
+    res.status(400).send(error);
+  }
+}
+
+
