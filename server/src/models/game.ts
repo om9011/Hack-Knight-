@@ -20,8 +20,34 @@ class Game {
 
   constructor() {
     this.balance = 0;
-    this.monthlyIncome = [];
-    this.monthlyExpenses = [];
+    this.monthlyIncome = [
+      {
+        description: "Salary",
+        amount: 80000,
+      },
+      {
+        description: "Freelance Work",
+        amount: 20000,
+      },
+    ];
+    this.monthlyExpenses = [
+      {
+        description: "EMI",
+        amount: 1000,
+      },
+      {
+        description: "Light Bill",
+        amount: 200,
+      },
+      {
+        description: "Internet Bill",
+        amount: 80,
+      },
+      {
+        description: "Groceries",
+        amount: 300,
+      },
+    ];
     this.assets = [];
     this.liabilities = [];
     this.monthNumber = 1;
