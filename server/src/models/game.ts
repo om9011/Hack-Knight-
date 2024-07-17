@@ -63,7 +63,7 @@ class Game {
     this.monthNumber = 1;
     this.incomeCollected = false;
     this.expensePaid = false;
-    this.totalMonths = 5;
+    this.totalMonths = 2;
     this.isGameOver = false;
     this.taxPaid = 0;
   }
