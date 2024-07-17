@@ -120,6 +120,13 @@ class Game {
         if (liability.name == liabilityName) {
           liability.totalvalue -= amount;
         }
+
+        if (liability.totalvalue <= 0) {
+          this.liabilities = this.liabilities.filter(
+            (liability) => liability.name != liabilityName
+          );
+        }
+        
       });
     } else {
       throw new Error("Insufficient balance to pay off liability.");
@@ -135,9 +142,10 @@ class Game {
     }
   }
 
-  payIncomeTax(amount: number): void {
-    if (this.balance >= amount) {
-      this.balance -= amount;
+  payIncomeTax(): void {
+    if (this.balance >= 0) {
+      let incomeTaxPaid = 0.3 * this.balance;
+      this.balance -= 0.7 * this.balance;
     } else {
       throw new Error("Insufficient balance to pay income tax.");
     }
