@@ -26,5 +26,33 @@
             "category": "Groceries",
             "value": 300
         }
+    ],
+    "assets": [
+        {
+            "category": "House",
+            "value": 5000000
+        },
+        {
+            "category": "Car",
+            "value": 300000
+        },
+        {
+            "category": "Investments",
+            "value": 150000
+        }
+    ],
+    "liabilities": [
+        {
+            "category": "Mortgage",
+            "value": 2000000
+        },
+        {
+            "category": "Car Loan",
+            "value": 100000
+        },
+        {
+            "category": "Credit Card Debt",
+            "value": 50000
+        }
     ]
 }

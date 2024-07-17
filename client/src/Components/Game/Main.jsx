@@ -1,17 +1,23 @@
 import React from 'react';
-import WalletInfo from './WalletInfo.jsx';
-import MonthlyExpenses from './MonthlyExpenses.jsx';
-import Investments from './Investments.jsx';
-import OwnershipDetails from './OwnershipDetails.jsx';
 import { useRecoilState } from 'recoil';
 import GameState from '../../State/GameState.jsx';
 import { Link } from 'react-router-dom';
+import axios from 'axios';
+import TaxPage from './TaxPage.jsx';
 
 
 const Main = () => {
     const [Game, setGame] = useRecoilState(GameState);
     console.log(Game);
 
+    const handleNextMonth = async() =>{
+      const response = await axios.get('http://localhost:3000/game/nextmonth');
+      setGame(response.data);
+      
+    }
+    if (Game.isGameOver) {
+      return <TaxPage />;
+    }
   return (
     <div className='flex bg-purple-100 h-[92vh] w-full justify-center items-start'>
       <div className="main p-4 w-4/5">
@@ -69,16 +75,16 @@ const Main = () => {
                 <h3 className="text-xl font-semibold mb-2">Ownership Details</h3>
                 <p className="text-gray-700 mb-4">Explore your assets and liabilities.</p>
               </div>
-              <div className="flex items-center justify-center">
+              <Link to="/game/ownership-details" className="flex items-center justify-center">
                 <button className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-lg">Go to Ownership Details</button>
-              </div>
+              </Link>
             </div>
           </div>
         </div>
 
         {/* Go to Next Month Button */}
         <div className="mt-8 flex justify-center">
-          <button className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-lg">
+          <button onClick={handleNextMonth} className="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-lg">
             Go to Next Month
           </button>
         </div>

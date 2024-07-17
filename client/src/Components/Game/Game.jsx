@@ -7,7 +7,7 @@ const Game = () => {
   return (
     
     <div className="game">
-      <Main />
+      
     </div>
   );
 };
