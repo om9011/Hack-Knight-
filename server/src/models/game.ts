@@ -5,7 +5,8 @@ interface Entry {
 
 interface Asset {
   name: string;
-  value: number;
+  totalvalue: number;
+  monthyEmi?: number;
 }
 
 class Game {
@@ -23,17 +24,17 @@ class Game {
     this.monthlyIncome = [
       {
         description: "Salary",
-        amount: 80000,
+        amount: 50000,
       },
       {
         description: "Freelance Work",
-        amount: 20000,
+        amount: 10000,
       },
     ];
     this.monthlyExpenses = [
       {
-        description: "EMI",
-        amount: 1000,
+        description: "TV EMI",
+        amount: 10000,
       },
       {
         description: "Light Bill",
@@ -49,7 +50,13 @@ class Game {
       },
     ];
     this.assets = [];
-    this.liabilities = [];
+    this.liabilities = [
+      {
+        name: "TV",
+        totalvalue: 200000,
+        monthyEmi: 10000,
+      },
+    ];
     this.monthNumber = 1;
     this.incomeCollected = false;
     this.expensePaid = false;
@@ -92,7 +99,7 @@ class Game {
   invest(amount: number, assetName: string): void {
     if (this.balance >= amount) {
       this.balance -= amount;
-      this.assets.push({ name: assetName, value: amount });
+      this.assets.push({ name: assetName, totalvalue: amount });
     } else {
       throw new Error("Insufficient balance to invest.");
     }
@@ -101,9 +108,18 @@ class Game {
   payOffLiability(amount: number, liabilityName: string): void {
     if (this.balance >= amount) {
       this.balance -= amount;
-      this.liabilities.push({ name: liabilityName, value: -amount });
+      this.liabilities.push({ name: liabilityName, totalvalue: -amount });
     } else {
       throw new Error("Insufficient balance to pay off liability.");
+    }
+  }
+
+  buyAsset(amount: number, assetName: string): void {
+    if (this.balance >= amount) {
+      this.balance -= amount;
+      this.assets.push({ name: assetName, totalvalue: amount });
+    } else {
+      throw new Error("Insufficient balance to buy asset.");
     }
   }
 }
