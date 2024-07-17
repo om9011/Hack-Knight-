@@ -82,7 +82,7 @@ class Game {
       this.incomeCollected = false;
       this.expensePaid = false;
     }
-    if (this.monthNumber > this.totalMonths) {
+    if (this.monthNumber >= this.totalMonths) {
       this.isGameOver = true;
     }
   }
