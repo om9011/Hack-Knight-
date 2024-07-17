@@ -19,6 +19,7 @@ class Game {
   incomeCollected: boolean;
   expensePaid: boolean;
   totalMonths: number;
+  isGameOver: boolean;
 
   constructor() {
     this.balance = 0;
@@ -62,6 +63,7 @@ class Game {
     this.incomeCollected = false;
     this.expensePaid = false;
     this.totalMonths = 5;
+    this.isGameOver = false;
   }
 
   addIncome(description: string, amount: number): void {
@@ -77,6 +79,9 @@ class Game {
       this.monthNumber++;
       this.incomeCollected = false;
       this.expensePaid = false;
+    }
+    if (this.monthNumber > this.totalMonths) {
+      this.isGameOver = true;
     }
   }
 
