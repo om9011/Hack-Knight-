@@ -30,3 +30,30 @@ export const payOffLiability = (req: Request, res: Response) => {
     res.status(400).send(error);
   }
 };
+
+export const collectMonthlyIncome = (req: Request, res: Response) => {
+  try {
+    game.collectMonthlyIncome();
+    res.json(game);
+  } catch (error) {
+    res.status(400).send(error);
+  }
+};
+
+export const payMonthlyExpenses = (req: Request, res: Response) => {
+  try {
+    game.payMonthlyExpenses();
+    res.json(game);
+  } catch (error) {
+    res.status(400).send(error);
+  }
+};
+
+export const nextMonth = (req: Request, res: Response) => {
+  try {
+    game.nextMonth();
+    res.json(game);
+  } catch (error) {
+    res.status(400).send(error);
+  }
+};
