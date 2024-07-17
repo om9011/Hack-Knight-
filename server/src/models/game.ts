@@ -5,8 +5,15 @@ interface Entry {
 
 interface Asset {
   name: string;
-  totalvalue: number;
-  monthyEmi?: number;
+  investedAmount: number;
+  currentValue: number;
+  price: number;
+}
+
+interface Liability {
+  name: string;
+  totalvalue : number;
+  monthyEmi : number;
 }
 
 class Game {
@@ -14,7 +21,7 @@ class Game {
   monthlyIncome: Array<Entry>;
   monthlyExpenses: Array<Entry>;
   assets: Array<Asset>;
-  liabilities: Array<Asset>;
+  liabilities: Array<Liability>;
   monthNumber: number;
   incomeCollected: boolean;
   expensePaid: boolean;
@@ -52,7 +59,38 @@ class Game {
         amount: 300,
       },
     ];
-    this.assets = [];
+    this.assets = [
+      {
+        name: "GOLD",
+        investedAmount: 0,
+        price: 50000,
+        currentValue: 0,
+      },
+      {
+        name: "STOCK MARKET (NIFTY 50)",
+        investedAmount: 0,
+        price: 24000,
+        currentValue: 0,
+      },
+      {
+        name: "BITCOIN",
+        investedAmount: 0,
+        price: 65000,
+        currentValue: 0,
+      },
+      {
+        name: "REAL ESTATE",
+        investedAmount: 0,
+        price: 10000,
+        currentValue: 0,
+      },
+      {
+        name: "BANK DEPOSIT",
+        investedAmount: 0,
+        price: 50000,
+        currentValue: 0,
+      },
+    ];
     this.liabilities = [
       {
         name: "TV",
@@ -81,6 +119,11 @@ class Game {
       this.monthNumber++;
       this.incomeCollected = false;
       this.expensePaid = false;
+      this.assets.forEach((asset) => {
+        // Randomly increase or reduce the value of the asset
+        let multiplier = 1 + Math.random() - 0.5;
+        asset.currentValue = asset.currentValue * multiplier;
+      });
     }
     if (this.monthNumber >= this.totalMonths) {
       this.isGameOver = true;
@@ -113,7 +156,11 @@ class Game {
   invest(amount: number, assetName: string): void {
     if (this.balance >= amount) {
       this.balance -= amount;
-      this.assets.push({ name: assetName, totalvalue: amount });
+      this.assets.forEach((asset) => {
+        if (asset.name == assetName) {
+          asset.currentValue += amount;
+        }
+      });
     } else {
       throw new Error("Insufficient balance to invest.");
     }
@@ -143,7 +190,11 @@ class Game {
   buyAsset(amount: number, assetName: string): void {
     if (this.balance >= amount) {
       this.balance -= amount;
-      this.assets.push({ name: assetName, totalvalue: amount });
+      this.assets.forEach((asset) => {
+        if (asset.name == assetName) {
+          asset.investedAmount += amount;
+        }
+      });
     } else {
       throw new Error("Insufficient balance to buy asset.");
     }

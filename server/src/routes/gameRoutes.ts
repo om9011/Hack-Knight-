@@ -17,7 +17,7 @@ router.get("/nextmonth", nextMonth);
 router.get("/start", startGame);
 router.get("/collect-monthly-income", collectMonthlyIncome);
 router.get("/pay-monthly-expenses", payMonthlyExpenses);
-// router.post("/invest", invest);
+router.post("/invest", invest);
 router.post("/pay-off-liability", payOffLiability);
 router.get("/pay-income-tax", payIncomeTax);
 
