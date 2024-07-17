@@ -8,6 +8,8 @@ interface Asset {
   investedAmount: number;
   currentValue: number;
   price: number;
+  unit: string;
+  percentChange: number;
 }
 
 interface Liability {
@@ -65,30 +67,40 @@ class Game {
         investedAmount: 0,
         price: 50000,
         currentValue: 0,
+        unit: "Per 10 grams",
+        percentChange: 1,
       },
       {
         name: "STOCK MARKET (NIFTY 50)",
         investedAmount: 0,
         price: 24000,
         currentValue: 0,
+        unit: "Points",
+        percentChange: 1,
       },
       {
         name: "BITCOIN",
         investedAmount: 0,
         price: 65000,
         currentValue: 0,
+        unit: "Per Coin",
+        percentChange: 1,
       },
       {
         name: "REAL ESTATE",
         investedAmount: 0,
         price: 10000,
         currentValue: 0,
+        unit: "Per Square Feet",
+        percentChange: 1,
       },
       {
         name: "BANK DEPOSIT",
         investedAmount: 0,
         price: 50000,
         currentValue: 0,
+        unit: "Per Deposit",
+        percentChange: 1,
       },
     ];
     this.liabilities = [
