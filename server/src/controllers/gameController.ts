@@ -23,8 +23,9 @@ export const invest = (req: Request, res: Response) => {
 
 export const payOffLiability = (req: Request, res: Response) => {
   const amount = req.body.amount;
+  const liabilityName = req.body.liabilityName;
   try {
-    // game.payOffLiability(amount);
+    game.payOffLiability(amount, liabilityName);
     res.json(game);
   } catch (error) {
     res.status(400).send(error);

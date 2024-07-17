@@ -18,6 +18,7 @@ class Game {
   monthNumber: number;
   incomeCollected: boolean;
   expensePaid: boolean;
+  totalMonths: number;
 
   constructor() {
     this.balance = 0;
@@ -60,6 +61,7 @@ class Game {
     this.monthNumber = 1;
     this.incomeCollected = false;
     this.expensePaid = false;
+    this.totalMonths = 5;
   }
 
   addIncome(description: string, amount: number): void {
@@ -92,6 +94,11 @@ class Game {
       this.monthlyExpenses.forEach((entry) => {
         this.balance -= entry.amount;
       });
+      this.liabilities.forEach((liability) => {
+        if (liability.monthyEmi) {
+          liability.totalvalue -= liability.monthyEmi;
+        }
+      });
     }
     this.expensePaid = true;
   }
@@ -108,7 +115,12 @@ class Game {
   payOffLiability(amount: number, liabilityName: string): void {
     if (this.balance >= amount) {
       this.balance -= amount;
-      this.liabilities.push({ name: liabilityName, totalvalue: -amount });
+      // find the liabilty and reduce the amount from it
+      this.liabilities.forEach((liability) => {
+        if (liability.name == liabilityName) {
+          liability.totalvalue -= amount;
+        }
+      });
     } else {
       throw new Error("Insufficient balance to pay off liability.");
     }
@@ -120,6 +132,14 @@ class Game {
       this.assets.push({ name: assetName, totalvalue: amount });
     } else {
       throw new Error("Insufficient balance to buy asset.");
+    }
+  }
+
+  payIncomeTax(amount: number): void {
+    if (this.balance >= amount) {
+      this.balance -= amount;
+    } else {
+      throw new Error("Insufficient balance to pay income tax.");
     }
   }
 }
