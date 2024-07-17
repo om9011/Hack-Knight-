@@ -1,0 +1,30 @@
+{
+    "income": [
+        {
+            "source": "Salary",
+            "amount": 80000
+        },
+        {
+            "source": "Freelance Work",
+            "amount": 20000
+        }
+    ],
+    "initialExpensesData": [
+        {
+            "category": "EMI",
+            "value": 1000
+        },
+        {
+            "category": "Light Bill",
+            "value": 200
+        },
+        {
+            "category": "Internet Bill",
+            "value": 80
+        },
+        {
+            "category": "Groceries",
+            "value": 300
+        }
+    ]
+}
