@@ -16,8 +16,13 @@ const Sidebar = ({ children }) => {
         icon: faGraduationCap,
       },
       {
-        path: "/main/track-expenses",
+        path: "/main/tracker",
         name: "Expenses Tracker",
+        icon: faWallet,
+      },
+      {
+        path: "/main/scholarship",
+        name: "Scholarship / Loans",
         icon: faWallet,
       },
     ];

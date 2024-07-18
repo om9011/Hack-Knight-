@@ -27,14 +27,13 @@ const Investments = () => {
   };
 
   const handleSell = async () => {
-    if (selectedCategory === null) return;
+    if (Game.assets[selectedCategory].name === null) return;
 
-    const response = await axios.get("http://localhost:3000/game/sell-asset", {
-      assetName: selectedCategory.name,
-      amount: Number(selectedCategory.currentValue),
+    const response = await axios.post("http://localhost:3000/game/sell-asset", {
+      assetName: Game.assets[selectedCategory].name,
+      amount: Number(Game.assets[selectedCategory].currentValue),
     });
     setGame(response.data);
-    console.log(response.data);
   };
 
   // Mapping between asset names and their corresponding images

@@ -21,6 +21,6 @@ router.get("/pay-monthly-expenses", payMonthlyExpenses);
 router.post("/invest", invest);
 router.post("/pay-off-liability", payOffLiability);
 router.get("/pay-income-tax", payIncomeTax);
-router.get("/sell-asset", sellAsset);
+router.post("/sell-asset", sellAsset);
 
 export default router;

@@ -230,12 +230,10 @@ class Game {
   sellAsset(amount: number, assetName: string): void {
     this.assets.forEach((asset) => {
       if (asset.name == assetName) {
-        if (asset.currentValue >= amount) {
           asset.currentValue -= amount;
           this.balance += amount;
-        } else {
-          throw new Error("Insufficient asset to sell.");
-        }
+          console.log(this.balance);
+          
       }
     });
   }
