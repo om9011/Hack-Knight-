@@ -8,6 +8,7 @@ const OwnershipDetails = () => {
   const [isPopupOpen, setIsPopupOpen] = useState(false);
   const [amountToPay, setAmountToPay] = useState(0);
   const [selectedLiability, setSelectedLiability] = useState('');
+  console.log(Game);
 
   const handleOpenPopup = () => {
     setIsPopupOpen(true);
@@ -68,17 +69,17 @@ const OwnershipDetails = () => {
           <table className="min-w-full divide-y divide-gray-200">
             <thead className="bg-gray-100">
               <tr>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Monthly EMI</th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Total Value</th>
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name (Unit)</th>
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Current Value</th>
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Invested Amount</th>
               </tr>
             </thead>
             <tbody className="bg-white divide-y divide-gray-200">
               {Game.assets.map((item, index) => (
                 <tr key={index}>
-                  <td className="px-6 py-4 whitespace-nowrap">{item.name}</td>
-                  <td className="px-6 py-4 whitespace-nowrap">{item.monthlyEmi}</td>
-                  <td className="px-6 py-4 whitespace-nowrap">{item.totalValue}</td>
+                  <td className="px-6 py-4 whitespace-nowrap">{item.name + " (" + item.unit + ")"}</td>
+                  <td className="px-6 py-4 whitespace-nowrap">{item.currentValue}</td>
+                  <td className="px-6 py-4 whitespace-nowrap">{item.investedAmount}</td>
                 </tr>
               ))}
             </tbody>

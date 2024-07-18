@@ -1,17 +1,21 @@
 import React from 'react';
-import { useRecoilValue } from 'recoil';
+import { useRecoilState } from 'recoil';
 import GameState from '../../State/GameState.jsx';
 import axios from 'axios';
+import { useNavigate } from 'react-router-dom';
 
 const TaxPage = () => {
-  const Game = useRecoilValue(GameState);
+    const [Game, setGame] = useRecoilState(GameState);
   const totalBalance = Game.balance || 0;
   const taxAmount = totalBalance * 0.3;
   const remainingAmount = totalBalance - taxAmount;
+  const navigate = useNavigate();
 
   const handlePayTax = async() =>{
     const response = await axios.get('http://localhost:3000/game/pay-income-tax');
     setGame(response.data);
+    navigate("/");
+    
   }
 
   return (

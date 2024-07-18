@@ -8,7 +8,6 @@ import TaxPage from './TaxPage.jsx';
 
 const Main = () => {
     const [Game, setGame] = useRecoilState(GameState);
-    console.log(Game);
 
     const handleNextMonth = async() =>{
       const response = await axios.get('http://localhost:3000/game/nextmonth');
@@ -61,9 +60,9 @@ const Main = () => {
                 <h3 className="text-xl font-semibold mb-2">Investments</h3>
                 <p className="text-gray-700 mb-4">View and manage your investments.</p>
               </div>
-              <div className="flex items-center justify-center">
+              <Link to="/game/investments" className="flex items-center justify-center">
                 <button className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-lg">Go to Investments</button>
-              </div>
+              </Link>
             </div>
           </div>
 

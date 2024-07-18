@@ -1,0 +1,6000 @@
+[{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20748d"
+  },
+  "Account Balance": 14960.34231,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "05:39:00",
+  "Category": "Grocery",
+  "Amount": 13.00678636
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207490"
+  },
+  "Account Balance": 14906.63792,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "23:54:00",
+  "Category": "Health",
+  "Amount": 18.6732858
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207499"
+  },
+  "Account Balance": 14732.37012,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "14:54:00",
+  "Category": "Food",
+  "Amount": 11.98146805
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a0"
+  },
+  "Account Balance": 14617.5772,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "07:04:00",
+  "Category": "Grocery",
+  "Amount": 16.25223794
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074af"
+  },
+  "Account Balance": 14328.95242,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "21:48:00",
+  "Category": "Entertainment",
+  "Amount": 19.30621981
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20749f"
+  },
+  "Account Balance": 14638.08074,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "09:23:00",
+  "Category": "Transport",
+  "Amount": 20.50353693
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a9"
+  },
+  "Account Balance": 14443.12378,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "22:43:00",
+  "Category": "Grocery",
+  "Amount": 19.81729533
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b9"
+  },
+  "Account Balance": 14109.13383,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "06:27:00",
+  "Category": "Transport",
+  "Amount": 24.01460806
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074bb"
+  },
+  "Account Balance": 14065.64078,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "11:26:00",
+  "Category": "Health",
+  "Amount": 24.52027316
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c9"
+  },
+  "Account Balance": 13785.11968,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "12:49:00",
+  "Category": "Health",
+  "Amount": 27.39205624
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20748b"
+  },
+  "Account Balance": 15000,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "14:23:00",
+  "Category": "Entertainment",
+  "Amount": 12.11261051
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20748e"
+  },
+  "Account Balance": 14947.33552,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "13:59:00",
+  "Category": "Others",
+  "Amount": 17.32587227
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20748f"
+  },
+  "Account Balance": 14930.00965,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "07:52:00",
+  "Category": "Entertainment",
+  "Amount": 23.37173349
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207491"
+  },
+  "Account Balance": 14887.96463,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "13:20:00",
+  "Category": "Grocery",
+  "Amount": 16.94137923
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207495"
+  },
+  "Account Balance": 14822.67775,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "17:59:00",
+  "Category": "Food",
+  "Amount": 25.3964976
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20749b"
+  },
+  "Account Balance": 14709.04235,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "18:09:00",
+  "Category": "Food",
+  "Amount": 24.13486392
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a1"
+  },
+  "Account Balance": 14601.32497,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "00:23:00",
+  "Category": "Grocery",
+  "Amount": 12.62151048
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074aa"
+  },
+  "Account Balance": 14423.30648,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "03:28:00",
+  "Category": "Health",
+  "Amount": 25.17006593
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b7"
+  },
+  "Account Balance": 14159.77146,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "02:31:00",
+  "Category": "Grocery",
+  "Amount": 25.96463495
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ba"
+  },
+  "Account Balance": 14085.11922,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "00:06:00",
+  "Category": "Entertainment",
+  "Amount": 19.47844068
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074bc"
+  },
+  "Account Balance": 14041.1205,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "01:17:00",
+  "Category": "Others",
+  "Amount": 14.50710599
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c3"
+  },
+  "Account Balance": 13887.43259,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "22:51:00",
+  "Category": "Entertainment",
+  "Amount": 10.60237396
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c8"
+  },
+  "Account Balance": 13812.98964,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "23:57:00",
+  "Category": "Health",
+  "Amount": 27.86995439
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ca"
+  },
+  "Account Balance": 13757.72763,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "17:09:00",
+  "Category": "Food",
+  "Amount": 27.62822564
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207498"
+  },
+  "Account Balance": 14746.33411,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "05:20:00",
+  "Category": "Transport",
+  "Amount": 13.96399376
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a5"
+  },
+  "Account Balance": 14524.56699,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "05:06:00",
+  "Category": "Entertainment",
+  "Amount": 18.75370914
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a7"
+  },
+  "Account Balance": 14480.49851,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "22:03:00",
+  "Category": "Food",
+  "Amount": 27.67094435
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b1"
+  },
+  "Account Balance": 14297.98303,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "08:49:00",
+  "Category": "Health",
+  "Amount": 15.02783587
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b3"
+  },
+  "Account Balance": 14255.38831,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "19:06:00",
+  "Category": "Entertainment",
+  "Amount": 24.37842277
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b5"
+  },
+  "Account Balance": 14206.83991,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "03:56:00",
+  "Category": "Grocery",
+  "Amount": 24.97801553
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c7"
+  },
+  "Account Balance": 13822.89711,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "21:55:00",
+  "Category": "Transport",
+  "Amount": 9.907472261
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20748c"
+  },
+  "Account Balance": 14987.88739,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "04:11:00",
+  "Category": "Health",
+  "Amount": 27.54508181
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207497"
+  },
+  "Account Balance": 14774.72591,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "07:52:00",
+  "Category": "Health",
+  "Amount": 28.39179713
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20749e"
+  },
+  "Account Balance": 14652.90903,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "20:49:00",
+  "Category": "Others",
+  "Amount": 14.82828971
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207494"
+  },
+  "Account Balance": 14833.83589,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "14:10:00",
+  "Category": "Health",
+  "Amount": 11.15814245
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207496"
+  },
+  "Account Balance": 14797.28125,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "21:49:00",
+  "Category": "Health",
+  "Amount": 22.55534241
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a6"
+  },
+  "Account Balance": 14505.81328,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "17:59:00",
+  "Category": "Others",
+  "Amount": 25.3147742
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a8"
+  },
+  "Account Balance": 14452.82756,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "18:44:00",
+  "Category": "Transport",
+  "Amount": 9.703784229
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ab"
+  },
+  "Account Balance": 14398.13642,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "02:09:00",
+  "Category": "Health",
+  "Amount": 15.29362497
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ac"
+  },
+  "Account Balance": 14382.84279,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "07:45:00",
+  "Category": "Others",
+  "Amount": 26.98902561
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b4"
+  },
+  "Account Balance": 14231.00989,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "14:14:00",
+  "Category": "Others",
+  "Amount": 24.1699779
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074bf"
+  },
+  "Account Balance": 13980.29177,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "05:59:00",
+  "Category": "Grocery",
+  "Amount": 25.92084523
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c0"
+  },
+  "Account Balance": 13954.37093,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "02:24:00",
+  "Category": "Grocery",
+  "Amount": 27.46098278
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c1"
+  },
+  "Account Balance": 13926.90994,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "10:17:00",
+  "Category": "Transport",
+  "Amount": 28.59622293
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c2"
+  },
+  "Account Balance": 13898.31372,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "07:13:00",
+  "Category": "Food",
+  "Amount": 10.88113494
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c4"
+  },
+  "Account Balance": 13876.83021,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "20:47:00",
+  "Category": "Grocery",
+  "Amount": 19.07878883
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20749c"
+  },
+  "Account Balance": 14684.90749,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "17:09:00",
+  "Category": "Others",
+  "Amount": 17.50887156
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20749d"
+  },
+  "Account Balance": 14667.39862,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "02:10:00",
+  "Category": "Health",
+  "Amount": 14.48958829
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a3"
+  },
+  "Account Balance": 14571.69773,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "19:57:00",
+  "Category": "Entertainment",
+  "Amount": 27.79459569
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a4"
+  },
+  "Account Balance": 14543.90314,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "10:37:00",
+  "Category": "Food",
+  "Amount": 19.33614558
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b0"
+  },
+  "Account Balance": 14309.6462,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "17:24:00",
+  "Category": "Food",
+  "Amount": 11.66317312
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b6"
+  },
+  "Account Balance": 14181.8619,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "18:44:00",
+  "Category": "Others",
+  "Amount": 22.09043934
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c6"
+  },
+  "Account Balance": 13839.53691,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "22:01:00",
+  "Category": "Grocery",
+  "Amount": 16.63980022
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ad"
+  },
+  "Account Balance": 14355.85377,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "04:12:00",
+  "Category": "Health",
+  "Amount": 14.27250815
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b2"
+  },
+  "Account Balance": 14282.95519,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "21:53:00",
+  "Category": "Grocery",
+  "Amount": 27.56687793
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074b8"
+  },
+  "Account Balance": 14133.80682,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "00:14:00",
+  "Category": "Health",
+  "Amount": 24.67299711
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074bd"
+  },
+  "Account Balance": 14026.6134,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "18:46:00",
+  "Category": "Grocery",
+  "Amount": 23.73613547
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074c5"
+  },
+  "Account Balance": 13857.75142,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "21:22:00",
+  "Category": "Others",
+  "Amount": 18.21451163
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207492"
+  },
+  "Account Balance": 14871.02325,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "01:20:00",
+  "Category": "Others",
+  "Amount": 18.10991652
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207493"
+  },
+  "Account Balance": 14852.91333,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "09:38:00",
+  "Category": "Entertainment",
+  "Amount": 19.07744515
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20749a"
+  },
+  "Account Balance": 14720.38865,
+  "Date": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "Time": "12:01:00",
+  "Category": "Transport",
+  "Amount": 11.34629264
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074a2"
+  },
+  "Account Balance": 14588.70346,
+  "Date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "Time": "14:16:00",
+  "Category": "Health",
+  "Amount": 17.0057253
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ae"
+  },
+  "Account Balance": 14341.58126,
+  "Date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "Time": "02:35:00",
+  "Category": "Transport",
+  "Amount": 12.6288373
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074be"
+  },
+  "Account Balance": 14002.87726,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "04:17:00",
+  "Category": "Grocery",
+  "Amount": 22.58549048
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074cc"
+  },
+  "Account Balance": 13710.86896,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "05:42:00",
+  "Category": "Health",
+  "Amount": 13.7269094
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074fb"
+  },
+  "Account Balance": 12878.49437,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "07:53:00",
+  "Category": "Grocery",
+  "Amount": 20.9238722
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d0"
+  },
+  "Account Balance": 13646.78361,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "07:38:00",
+  "Category": "Transport",
+  "Amount": 17.40394673
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207500"
+  },
+  "Account Balance": 12782.48448,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "19:35:00",
+  "Category": "Grocery",
+  "Amount": 28.06515213
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207503"
+  },
+  "Account Balance": 12716.64345,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "18:52:00",
+  "Category": "Food",
+  "Amount": 11.066631
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207505"
+  },
+  "Account Balance": 12678.86661,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "22:41:00",
+  "Category": "Others",
+  "Amount": 27.8702254
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e4"
+  },
+  "Account Balance": 13288.65703,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "20:57:00",
+  "Category": "Transport",
+  "Amount": 12.28876356
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f1"
+  },
+  "Account Balance": 13032.08955,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "14:28:00",
+  "Category": "Food",
+  "Amount": 14.53107609
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f2"
+  },
+  "Account Balance": 13017.55848,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "19:21:00",
+  "Category": "Food",
+  "Amount": 21.69065392
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f4"
+  },
+  "Account Balance": 12983.05904,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "17:35:00",
+  "Category": "Grocery",
+  "Amount": 21.83058764
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f7"
+  },
+  "Account Balance": 12935.2825,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "23:44:00",
+  "Category": "Entertainment",
+  "Amount": 19.55833457
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074fe"
+  },
+  "Account Balance": 12817.07605,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "12:45:00",
+  "Category": "Entertainment",
+  "Amount": 11.97137137
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ff"
+  },
+  "Account Balance": 12805.10468,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "05:34:00",
+  "Category": "Entertainment",
+  "Amount": 22.620194
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20750a"
+  },
+  "Account Balance": 12578.76537,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "23:59:00",
+  "Category": "Food",
+  "Amount": 12.20328878
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d2"
+  },
+  "Account Balance": 13610.2939,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "14:54:00",
+  "Category": "Food",
+  "Amount": 13.35899943
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d5"
+  },
+  "Account Balance": 13551.94578,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "12:41:00",
+  "Category": "Entertainment",
+  "Amount": 24.13555162
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074dc"
+  },
+  "Account Balance": 13417.99153,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "04:25:00",
+  "Category": "Grocery",
+  "Amount": 15.97894382
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e5"
+  },
+  "Account Balance": 13276.36827,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "21:54:00",
+  "Category": "Transport",
+  "Amount": 10.73489596
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074fd"
+  },
+  "Account Balance": 12842.8988,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "14:13:00",
+  "Category": "Health",
+  "Amount": 25.82275349
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207501"
+  },
+  "Account Balance": 12754.41933,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "13:35:00",
+  "Category": "Grocery",
+  "Amount": 10.28079787
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207507"
+  },
+  "Account Balance": 12633.88322,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "00:22:00",
+  "Category": "Grocery",
+  "Amount": 16.76984924
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207509"
+  },
+  "Account Balance": 12600.73661,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "15:41:00",
+  "Category": "Grocery",
+  "Amount": 21.97124272
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074da"
+  },
+  "Account Balance": 13452.0353,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "20:23:00",
+  "Category": "Transport",
+  "Amount": 18.43551223
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074cf"
+  },
+  "Account Balance": 13667.6118,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "17:40:00",
+  "Category": "Health",
+  "Amount": 20.82819424
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074cd"
+  },
+  "Account Balance": 13697.14205,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "00:43:00",
+  "Category": "Health",
+  "Amount": 19.71316584
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e2"
+  },
+  "Account Balance": 13309.86223,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "15:44:00",
+  "Category": "Food",
+  "Amount": 10.46462317
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ea"
+  },
+  "Account Balance": 13170.02671,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "01:57:00",
+  "Category": "Transport",
+  "Amount": 10.29302867
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074fa"
+  },
+  "Account Balance": 12892.6061,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "16:29:00",
+  "Category": "Grocery",
+  "Amount": 14.11173478
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d3"
+  },
+  "Account Balance": 13596.9349,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "00:56:00",
+  "Category": "Food",
+  "Amount": 21.16683164
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d4"
+  },
+  "Account Balance": 13575.76807,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "17:23:00",
+  "Category": "Health",
+  "Amount": 23.82229214
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d7"
+  },
+  "Account Balance": 13509.5105,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "08:51:00",
+  "Category": "Food",
+  "Amount": 19.64858688
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e6"
+  },
+  "Account Balance": 13265.63337,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "08:06:00",
+  "Category": "Health",
+  "Amount": 21.73557727
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074eb"
+  },
+  "Account Balance": 13159.73369,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "03:20:00",
+  "Category": "Health",
+  "Amount": 27.61508322
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f0"
+  },
+  "Account Balance": 13049.88831,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "16:36:00",
+  "Category": "Food",
+  "Amount": 17.79875213
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207504"
+  },
+  "Account Balance": 12705.57682,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "22:37:00",
+  "Category": "Entertainment",
+  "Amount": 26.71021465
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d1"
+  },
+  "Account Balance": 13629.37966,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "17:06:00",
+  "Category": "Grocery",
+  "Amount": 19.08575831
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d8"
+  },
+  "Account Balance": 13489.86192,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "22:36:00",
+  "Category": "Food",
+  "Amount": 21.8691058
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074dd"
+  },
+  "Account Balance": 13402.01259,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "16:05:00",
+  "Category": "Transport",
+  "Amount": 19.72866941
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e8"
+  },
+  "Account Balance": 13224.56243,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "12:04:00",
+  "Category": "Transport",
+  "Amount": 28.40357194
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e9"
+  },
+  "Account Balance": 13196.15885,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "18:38:00",
+  "Category": "Grocery",
+  "Amount": 26.13213987
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ec"
+  },
+  "Account Balance": 13132.1186,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "03:44:00",
+  "Category": "Entertainment",
+  "Amount": 26.7015611
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f6"
+  },
+  "Account Balance": 12949.3258,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "18:37:00",
+  "Category": "Others",
+  "Amount": 14.04329842
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f8"
+  },
+  "Account Balance": 12915.72416,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "04:54:00",
+  "Category": "Others",
+  "Amount": 12.82736075
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f9"
+  },
+  "Account Balance": 12902.8968,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "03:54:00",
+  "Category": "Others",
+  "Amount": 10.29070009
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074cb"
+  },
+  "Account Balance": 13730.0994,
+  "Date": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "Time": "22:22:00",
+  "Category": "Health",
+  "Amount": 19.23044616
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074df"
+  },
+  "Account Balance": 13364.5387,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "07:31:00",
+  "Category": "Health",
+  "Amount": 25.43349922
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ed"
+  },
+  "Account Balance": 13105.41704,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "03:34:00",
+  "Category": "Entertainment",
+  "Amount": 12.74415504
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ee"
+  },
+  "Account Balance": 13092.67289,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "09:48:00",
+  "Category": "Others",
+  "Amount": 24.50579688
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ef"
+  },
+  "Account Balance": 13068.16709,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "20:41:00",
+  "Category": "Food",
+  "Amount": 18.27878284
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f3"
+  },
+  "Account Balance": 12995.86782,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "15:30:00",
+  "Category": "Others",
+  "Amount": 12.80878224
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074f5"
+  },
+  "Account Balance": 12961.22845,
+  "Date": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "Time": "22:22:00",
+  "Category": "Transport",
+  "Amount": 11.90265816
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207502"
+  },
+  "Account Balance": 12744.13853,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "08:03:00",
+  "Category": "Food",
+  "Amount": 27.49507977
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074ce"
+  },
+  "Account Balance": 13677.42888,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "19:43:00",
+  "Category": "Food",
+  "Amount": 9.817081647
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d6"
+  },
+  "Account Balance": 13527.81023,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "12:42:00",
+  "Category": "Grocery",
+  "Amount": 18.29972297
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074d9"
+  },
+  "Account Balance": 13467.99281,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "15:26:00",
+  "Category": "Others",
+  "Amount": 15.95750572
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074db"
+  },
+  "Account Balance": 13433.59979,
+  "Date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "Time": "11:58:00",
+  "Category": "Entertainment",
+  "Amount": 15.60826275
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074de"
+  },
+  "Account Balance": 13382.28392,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "08:04:00",
+  "Category": "Food",
+  "Amount": 17.74521442
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e0"
+  },
+  "Account Balance": 13339.1052,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "05:40:00",
+  "Category": "Transport",
+  "Amount": 12.84089435
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e1"
+  },
+  "Account Balance": 13326.26431,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "13:37:00",
+  "Category": "Transport",
+  "Amount": 16.40208191
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e3"
+  },
+  "Account Balance": 13299.3976,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "00:08:00",
+  "Category": "Entertainment",
+  "Amount": 10.74057344
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074e7"
+  },
+  "Account Balance": 13243.89779,
+  "Date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "Time": "17:48:00",
+  "Category": "Food",
+  "Amount": 19.33536728
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2074fc"
+  },
+  "Account Balance": 12857.5705,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "09:55:00",
+  "Category": "Entertainment",
+  "Amount": 14.6716923
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207506"
+  },
+  "Account Balance": 12650.99638,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "23:25:00",
+  "Category": "Food",
+  "Amount": 17.11316782
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207508"
+  },
+  "Account Balance": 12617.11337,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "14:05:00",
+  "Category": "Food",
+  "Amount": 16.3767567
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207512"
+  },
+  "Account Balance": 12435.01096,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "11:10:00",
+  "Category": "Food",
+  "Amount": 24.6267647
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20750e"
+  },
+  "Account Balance": 12508.63005,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "04:17:00",
+  "Category": "Health",
+  "Amount": 24.25691923
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20750c"
+  },
+  "Account Balance": 12550.62266,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "03:45:00",
+  "Category": "Others",
+  "Amount": 15.69065208
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207516"
+  },
+  "Account Balance": 12346.68158,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "21:38:00",
+  "Category": "Grocery",
+  "Amount": 12.10596564
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207526"
+  },
+  "Account Balance": 12045.13336,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "13:14:00",
+  "Category": "Transport",
+  "Amount": 20.60968734
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207527"
+  },
+  "Account Balance": 12024.52367,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "11:49:00",
+  "Category": "Grocery",
+  "Amount": 25.22127457
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207530"
+  },
+  "Account Balance": 11846.87287,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "13:45:00",
+  "Category": "Others",
+  "Amount": 24.62885804
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20753c"
+  },
+  "Account Balance": 11617.06555,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "05:12:00",
+  "Category": "Transport",
+  "Amount": 16.11253618
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20754a"
+  },
+  "Account Balance": 11375.28712,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "01:35:00",
+  "Category": "Others",
+  "Amount": 25.19199932
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20751e"
+  },
+  "Account Balance": 12195.821,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "05:08:00",
+  "Category": "Health",
+  "Amount": 15.2642175
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207523"
+  },
+  "Account Balance": 12097.9056,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "09:47:00",
+  "Category": "Health",
+  "Amount": 27.6086526
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207525"
+  },
+  "Account Balance": 12059.8517,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "11:58:00",
+  "Category": "Entertainment",
+  "Amount": 14.71834544
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20752c"
+  },
+  "Account Balance": 11925.99364,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "00:33:00",
+  "Category": "Health",
+  "Amount": 14.10081732
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207538"
+  },
+  "Account Balance": 11683.79106,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "02:00:00",
+  "Category": "Health",
+  "Amount": 16.23972115
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207545"
+  },
+  "Account Balance": 11455.58788,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "19:13:00",
+  "Category": "Food",
+  "Amount": 19.7253717
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207546"
+  },
+  "Account Balance": 11435.86251,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "03:16:00",
+  "Category": "Grocery",
+  "Amount": 11.27621031
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207549"
+  },
+  "Account Balance": 11392.74407,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "10:33:00",
+  "Category": "Food",
+  "Amount": 17.45695183
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20750d"
+  },
+  "Account Balance": 12534.93201,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "01:25:00",
+  "Category": "Others",
+  "Amount": 26.30195683
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20750f"
+  },
+  "Account Balance": 12484.37313,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "21:47:00",
+  "Category": "Transport",
+  "Amount": 13.22592953
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207517"
+  },
+  "Account Balance": 12334.57561,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "07:06:00",
+  "Category": "Grocery",
+  "Amount": 28.37071829
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20751f"
+  },
+  "Account Balance": 12180.55678,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "03:21:00",
+  "Category": "Health",
+  "Amount": 17.85356926
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20752f"
+  },
+  "Account Balance": 11867.85235,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "11:31:00",
+  "Category": "Transport",
+  "Amount": 20.97947784
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20753e"
+  },
+  "Account Balance": 11586.80335,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "12:52:00",
+  "Category": "Health",
+  "Amount": 24.65547244
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207543"
+  },
+  "Account Balance": 11490.03927,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "20:17:00",
+  "Category": "Food",
+  "Amount": 13.64186445
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20751d"
+  },
+  "Account Balance": 12213.26168,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "16:59:00",
+  "Category": "Food",
+  "Amount": 17.4406776
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20752b"
+  },
+  "Account Balance": 11949.02362,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "17:31:00",
+  "Category": "Food",
+  "Amount": 23.02998172
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20752e"
+  },
+  "Account Balance": 11886.573,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "02:00:00",
+  "Category": "Others",
+  "Amount": 18.72065302
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207537"
+  },
+  "Account Balance": 11701.52992,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "11:34:00",
+  "Category": "Entertainment",
+  "Amount": 17.73886604
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20753a"
+  },
+  "Account Balance": 11654.88824,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "06:34:00",
+  "Category": "Food",
+  "Amount": 22.2803788
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207510"
+  },
+  "Account Balance": 12471.1472,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "13:54:00",
+  "Category": "Grocery",
+  "Amount": 19.62717683
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20750b"
+  },
+  "Account Balance": 12566.56208,
+  "Date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "Time": "02:41:00",
+  "Category": "Health",
+  "Amount": 15.93941733
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207514"
+  },
+  "Account Balance": 12400.04222,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "06:08:00",
+  "Category": "Grocery",
+  "Amount": 27.07394983
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20751b"
+  },
+  "Account Balance": 12245.1104,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "03:20:00",
+  "Category": "Others",
+  "Amount": 17.82533745
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207520"
+  },
+  "Account Balance": 12162.70321,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "18:13:00",
+  "Category": "Food",
+  "Amount": 25.97801193
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207522"
+  },
+  "Account Balance": 12125.28426,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "05:09:00",
+  "Category": "Food",
+  "Amount": 27.37865362
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207529"
+  },
+  "Account Balance": 11981.34754,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "07:40:00",
+  "Category": "Health",
+  "Amount": 14.06802995
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207536"
+  },
+  "Account Balance": 11718.76309,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "02:06:00",
+  "Category": "Entertainment",
+  "Amount": 17.23316857
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207539"
+  },
+  "Account Balance": 11667.55134,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "09:14:00",
+  "Category": "Grocery",
+  "Amount": 12.66310032
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207521"
+  },
+  "Account Balance": 12136.7252,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "06:18:00",
+  "Category": "Grocery",
+  "Amount": 11.44094324
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20752d"
+  },
+  "Account Balance": 11911.89282,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "13:36:00",
+  "Category": "Others",
+  "Amount": 25.3198192
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207531"
+  },
+  "Account Balance": 11822.24401,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "12:20:00",
+  "Category": "Others",
+  "Amount": 24.23981989
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207534"
+  },
+  "Account Balance": 11760.85241,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "17:14:00",
+  "Category": "Others",
+  "Amount": 23.82221941
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207535"
+  },
+  "Account Balance": 11737.0302,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "18:47:00",
+  "Category": "Food",
+  "Amount": 18.26710274
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20753d"
+  },
+  "Account Balance": 11600.95301,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "00:57:00",
+  "Category": "Grocery",
+  "Amount": 14.149663
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207540"
+  },
+  "Account Balance": 11550.60173,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "14:10:00",
+  "Category": "Health",
+  "Amount": 17.56817679
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207541"
+  },
+  "Account Balance": 11533.03355,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "08:03:00",
+  "Category": "Grocery",
+  "Amount": 27.92426406
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207542"
+  },
+  "Account Balance": 11505.10929,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "15:32:00",
+  "Category": "Food",
+  "Amount": 15.070018
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207519"
+  },
+  "Account Balance": 12282.38905,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "23:19:00",
+  "Category": "Transport",
+  "Amount": 16.35405128
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20751c"
+  },
+  "Account Balance": 12227.28506,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "02:21:00",
+  "Category": "Grocery",
+  "Amount": 14.02338443
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20752a"
+  },
+  "Account Balance": 11967.27951,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "17:18:00",
+  "Category": "Others",
+  "Amount": 18.25589269
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207532"
+  },
+  "Account Balance": 11798.00419,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "06:00:00",
+  "Category": "Entertainment",
+  "Amount": 16.42372535
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20753b"
+  },
+  "Account Balance": 11632.60786,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "19:40:00",
+  "Category": "Grocery",
+  "Amount": 15.54230851
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207544"
+  },
+  "Account Balance": 11476.39741,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "15:53:00",
+  "Category": "Transport",
+  "Amount": 20.80952586
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207548"
+  },
+  "Account Balance": 11406.8876,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "05:28:00",
+  "Category": "Grocery",
+  "Amount": 14.14353114
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207511"
+  },
+  "Account Balance": 12451.52003,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "07:00:00",
+  "Category": "Transport",
+  "Amount": 16.50907039
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207513"
+  },
+  "Account Balance": 12410.38419,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "14:31:00",
+  "Category": "Health",
+  "Amount": 10.34196859
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207515"
+  },
+  "Account Balance": 12372.96827,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "18:15:00",
+  "Category": "Grocery",
+  "Amount": 26.28669537
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207518"
+  },
+  "Account Balance": 12306.20489,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "10:35:00",
+  "Category": "Transport",
+  "Amount": 23.81584674
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20751a"
+  },
+  "Account Balance": 12266.035,
+  "Date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "Time": "19:24:00",
+  "Category": "Food",
+  "Amount": 20.92459733
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207524"
+  },
+  "Account Balance": 12070.29695,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "06:12:00",
+  "Category": "Health",
+  "Amount": 10.44524878
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207528"
+  },
+  "Account Balance": 11999.30239,
+  "Date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "Time": "21:53:00",
+  "Category": "Grocery",
+  "Amount": 17.95485242
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207533"
+  },
+  "Account Balance": 11781.58047,
+  "Date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "Time": "01:29:00",
+  "Category": "Transport",
+  "Amount": 20.72805227
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20753f"
+  },
+  "Account Balance": 11562.14788,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "08:45:00",
+  "Category": "Health",
+  "Amount": 11.5461464
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207547"
+  },
+  "Account Balance": 11424.5863,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "06:11:00",
+  "Category": "Health",
+  "Amount": 17.69869634
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207551"
+  },
+  "Account Balance": 11238.32419,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "02:42:00",
+  "Category": "Grocery",
+  "Amount": 23.61438207
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20754e"
+  },
+  "Account Balance": 11292.46952,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "15:06:00",
+  "Category": "Others",
+  "Amount": 12.86255744
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207555"
+  },
+  "Account Balance": 11158.18006,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "13:38:00",
+  "Category": "Transport",
+  "Amount": 16.10169437
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207556"
+  },
+  "Account Balance": 11142.07836,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "12:25:00",
+  "Category": "Food",
+  "Amount": 27.41673629
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20755e"
+  },
+  "Account Balance": 10976.43571,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "07:26:00",
+  "Category": "Health",
+  "Amount": 16.99045762
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207563"
+  },
+  "Account Balance": 10895.96495,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "14:50:00",
+  "Category": "Entertainment",
+  "Amount": 12.31276006
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207569"
+  },
+  "Account Balance": 10779.37115,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "21:16:00",
+  "Category": "Others",
+  "Amount": 27.34182334
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20756a"
+  },
+  "Account Balance": 10752.02933,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "15:58:00",
+  "Category": "Entertainment",
+  "Amount": 19.97989644
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20756b"
+  },
+  "Account Balance": 10732.04943,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "23:56:00",
+  "Category": "Others",
+  "Amount": 14.66628355
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20756e"
+  },
+  "Account Balance": 10679.17932,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "13:33:00",
+  "Category": "Health",
+  "Amount": 19.73282996
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207575"
+  },
+  "Account Balance": 10540.92169,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "09:03:00",
+  "Category": "Others",
+  "Amount": 19.33148192
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20757a"
+  },
+  "Account Balance": 10462.08205,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "04:30:00",
+  "Category": "Food",
+  "Amount": 22.88845279
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20757d"
+  },
+  "Account Balance": 10399.83357,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "09:07:00",
+  "Category": "Food",
+  "Amount": 22.12901318
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207559"
+  },
+  "Account Balance": 11076.32306,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "07:36:00",
+  "Category": "Food",
+  "Amount": 16.26299379
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20755c"
+  },
+  "Account Balance": 11019.10565,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "11:10:00",
+  "Category": "Health",
+  "Amount": 27.48572713
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20756c"
+  },
+  "Account Balance": 10717.38315,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "19:57:00",
+  "Category": "Health",
+  "Amount": 13.10600182
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20756f"
+  },
+  "Account Balance": 10659.44649,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "02:24:00",
+  "Category": "Transport",
+  "Amount": 25.37434914
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207572"
+  },
+  "Account Balance": 10585.36101,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "22:33:00",
+  "Category": "Health",
+  "Amount": 15.2792786
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207574"
+  },
+  "Account Balance": 10552.50267,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "04:32:00",
+  "Category": "Food",
+  "Amount": 11.58098267
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207577"
+  },
+  "Account Balance": 10496.1271,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "12:49:00",
+  "Category": "Food",
+  "Amount": 11.88470747
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207579"
+  },
+  "Account Balance": 10472.00387,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "14:14:00",
+  "Category": "Grocery",
+  "Amount": 9.921825166
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207587"
+  },
+  "Account Balance": 10208.4321,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "07:42:00",
+  "Category": "Health",
+  "Amount": 26.45306811
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207567"
+  },
+  "Account Balance": 10829.67615,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "16:15:00",
+  "Category": "Entertainment",
+  "Amount": 28.20702208
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20755a"
+  },
+  "Account Balance": 11060.06007,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "22:50:00",
+  "Category": "Others",
+  "Amount": 27.12627103
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20754b"
+  },
+  "Account Balance": 11350.09512,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "10:03:00",
+  "Category": "Grocery",
+  "Amount": 21.53501287
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20754f"
+  },
+  "Account Balance": 11279.60696,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "12:41:00",
+  "Category": "Entertainment",
+  "Amount": 19.91609629
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207570"
+  },
+  "Account Balance": 10634.07214,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "13:18:00",
+  "Category": "Food",
+  "Amount": 28.72069706
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207571"
+  },
+  "Account Balance": 10605.35144,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "07:44:00",
+  "Category": "Transport",
+  "Amount": 19.99042685
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20757e"
+  },
+  "Account Balance": 10377.70455,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "00:01:00",
+  "Category": "Food",
+  "Amount": 18.55950836
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207583"
+  },
+  "Account Balance": 10300.29072,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "09:04:00",
+  "Category": "Others",
+  "Amount": 24.08139094
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20758a"
+  },
+  "Account Balance": 10143.95725,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "05:07:00",
+  "Category": "Entertainment",
+  "Amount": 14.30059698
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20755d"
+  },
+  "Account Balance": 10991.61992,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "04:09:00",
+  "Category": "Health",
+  "Amount": 15.18421786
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20755f"
+  },
+  "Account Balance": 10959.44525,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "22:56:00",
+  "Category": "Entertainment",
+  "Amount": 11.90546309
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207562"
+  },
+  "Account Balance": 10918.95048,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "17:40:00",
+  "Category": "Grocery",
+  "Amount": 22.98553341
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207565"
+  },
+  "Account Balance": 10868.09029,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "19:42:00",
+  "Category": "Health",
+  "Amount": 27.45090966
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207578"
+  },
+  "Account Balance": 10484.24239,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "13:01:00",
+  "Category": "Transport",
+  "Amount": 12.23852208
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20757c"
+  },
+  "Account Balance": 10425.32047,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "23:31:00",
+  "Category": "Food",
+  "Amount": 25.48690607
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207550"
+  },
+  "Account Balance": 11259.69086,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "19:16:00",
+  "Category": "Grocery",
+  "Amount": 21.36667491
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207554"
+  },
+  "Account Balance": 11176.63564,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "22:42:00",
+  "Category": "Others",
+  "Amount": 18.45558256
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207557"
+  },
+  "Account Balance": 11114.66163,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "08:43:00",
+  "Category": "Others",
+  "Amount": 10.72087198
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207558"
+  },
+  "Account Balance": 11103.94075,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "23:25:00",
+  "Category": "Grocery",
+  "Amount": 27.61769453
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207564"
+  },
+  "Account Balance": 10883.65219,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "02:10:00",
+  "Category": "Transport",
+  "Amount": 15.56189521
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207566"
+  },
+  "Account Balance": 10840.63938,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "18:08:00",
+  "Category": "Food",
+  "Amount": 10.96322881
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20756d"
+  },
+  "Account Balance": 10704.27715,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "08:38:00",
+  "Category": "Others",
+  "Amount": 25.09782917
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207576"
+  },
+  "Account Balance": 10521.59021,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "06:34:00",
+  "Category": "Entertainment",
+  "Amount": 25.46310475
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20757b"
+  },
+  "Account Balance": 10439.19359,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "12:24:00",
+  "Category": "Transport",
+  "Amount": 13.87312254
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20757f"
+  },
+  "Account Balance": 10359.14504,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "18:11:00",
+  "Category": "Health",
+  "Amount": 10.35282625
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207585"
+  },
+  "Account Balance": 10259.78427,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "09:52:00",
+  "Category": "Others",
+  "Amount": 23.93044352
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207552"
+  },
+  "Account Balance": 11214.70981,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "23:32:00",
+  "Category": "Grocery",
+  "Amount": 23.13106822
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207561"
+  },
+  "Account Balance": 10931.63732,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "05:53:00",
+  "Category": "Entertainment",
+  "Amount": 12.68684268
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207580"
+  },
+  "Account Balance": 10348.79222,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "14:06:00",
+  "Category": "Grocery",
+  "Amount": 11.20218924
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20754c"
+  },
+  "Account Balance": 11328.56011,
+  "Date": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "Time": "18:09:00",
+  "Category": "Transport",
+  "Amount": 11.38666775
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20754d"
+  },
+  "Account Balance": 11317.17344,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "14:38:00",
+  "Category": "Food",
+  "Amount": 24.70392428
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207553"
+  },
+  "Account Balance": 11191.57874,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "11:23:00",
+  "Category": "Health",
+  "Amount": 14.94309729
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207568"
+  },
+  "Account Balance": 10801.46913,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "04:31:00",
+  "Category": "Others",
+  "Amount": 22.09798
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207584"
+  },
+  "Account Balance": 10276.20933,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "14:42:00",
+  "Category": "Food",
+  "Amount": 16.42505724
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207589"
+  },
+  "Account Balance": 10164.57563,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "05:32:00",
+  "Category": "Health",
+  "Amount": 20.61838333
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20755b"
+  },
+  "Account Balance": 11032.9338,
+  "Date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "Time": "19:38:00",
+  "Category": "Others",
+  "Amount": 13.82814424
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207560"
+  },
+  "Account Balance": 10947.53979,
+  "Date": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "Time": "18:02:00",
+  "Category": "Health",
+  "Amount": 15.90246285
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207573"
+  },
+  "Account Balance": 10570.08173,
+  "Date": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "Time": "10:07:00",
+  "Category": "Transport",
+  "Amount": 17.57906358
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207581"
+  },
+  "Account Balance": 10337.59003,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "10:55:00",
+  "Category": "Grocery",
+  "Amount": 26.52135287
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207582"
+  },
+  "Account Balance": 10311.06868,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "19:55:00",
+  "Category": "Others",
+  "Amount": 10.7779594
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207586"
+  },
+  "Account Balance": 10235.85382,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "11:03:00",
+  "Category": "Health",
+  "Amount": 27.42172528
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207588"
+  },
+  "Account Balance": 10181.97903,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "18:10:00",
+  "Category": "Food",
+  "Amount": 17.40340091
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207595"
+  },
+  "Account Balance": 9962.187951,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "09:35:00",
+  "Category": "Grocery",
+  "Amount": 23.0437651
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20759f"
+  },
+  "Account Balance": 9779.231732,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "01:46:00",
+  "Category": "Health",
+  "Amount": 13.24621013
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075af"
+  },
+  "Account Balance": 9447.279835,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "01:36:00",
+  "Category": "Others",
+  "Amount": 19.73723372
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b2"
+  },
+  "Account Balance": 9384.543402,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "09:06:00",
+  "Category": "Grocery",
+  "Amount": 28.36988439
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b5"
+  },
+  "Account Balance": 9299.338889,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "16:56:00",
+  "Category": "Entertainment",
+  "Amount": 26.63007871
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c6"
+  },
+  "Account Balance": 8969.075045,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "19:09:00",
+  "Category": "Transport",
+  "Amount": 28.31024902
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20758e"
+  },
+  "Account Balance": 10068.2402,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "02:50:00",
+  "Category": "Health",
+  "Amount": 12.34220954
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207590"
+  },
+  "Account Balance": 10045.18554,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "09:47:00",
+  "Category": "Food",
+  "Amount": 10.17599302
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20758f"
+  },
+  "Account Balance": 10055.89799,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "19:06:00",
+  "Category": "Transport",
+  "Amount": 10.71244908
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207596"
+  },
+  "Account Balance": 9939.144186,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "22:43:00",
+  "Category": "Grocery",
+  "Amount": 27.032442
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a1"
+  },
+  "Account Balance": 9742.487424,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "09:42:00",
+  "Category": "Entertainment",
+  "Amount": 27.93982505
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a5"
+  },
+  "Account Balance": 9669.08738,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "14:53:00",
+  "Category": "Others",
+  "Amount": 17.72972414
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b8"
+  },
+  "Account Balance": 9232.851429,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "14:08:00",
+  "Category": "Food",
+  "Amount": 14.56514612
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075be"
+  },
+  "Account Balance": 9120.802454,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "17:52:00",
+  "Category": "Health",
+  "Amount": 15.96565422
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c4"
+  },
+  "Account Balance": 9007.842157,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "11:58:00",
+  "Category": "Entertainment",
+  "Amount": 25.50383089
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207593"
+  },
+  "Account Balance": 9990.381396,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "13:09:00",
+  "Category": "Transport",
+  "Amount": 15.00030686
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207594"
+  },
+  "Account Balance": 9975.381089,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "05:21:00",
+  "Category": "Entertainment",
+  "Amount": 13.19313871
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20759d"
+  },
+  "Account Balance": 9808.019512,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "13:16:00",
+  "Category": "Entertainment",
+  "Amount": 16.24132178
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a4"
+  },
+  "Account Balance": 9680.480888,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "02:13:00",
+  "Category": "Health",
+  "Amount": 11.39350811
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075bb"
+  },
+  "Account Balance": 9182.911675,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "10:13:00",
+  "Category": "Entertainment",
+  "Amount": 21.89766481
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c8"
+  },
+  "Account Balance": 8927.022686,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "06:57:00",
+  "Category": "Food",
+  "Amount": 13.86017625
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c9"
+  },
+  "Account Balance": 8913.16251,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "21:58:00",
+  "Category": "Health",
+  "Amount": 18.82431517
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207592"
+  },
+  "Account Balance": 10008.07627,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "16:02:00",
+  "Category": "Food",
+  "Amount": 17.69487083
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207598"
+  },
+  "Account Balance": 9902.047389,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "04:29:00",
+  "Category": "Health",
+  "Amount": 19.02665379
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b0"
+  },
+  "Account Balance": 9427.542601,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "18:13:00",
+  "Category": "Transport",
+  "Amount": 23.91105071
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b9"
+  },
+  "Account Balance": 9218.286283,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "13:46:00",
+  "Category": "Transport",
+  "Amount": 10.24570351
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ba"
+  },
+  "Account Balance": 9208.040579,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "16:27:00",
+  "Category": "Health",
+  "Amount": 25.12890399
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ca"
+  },
+  "Account Balance": 8894.338195,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "20:01:00",
+  "Category": "Health",
+  "Amount": 24.89611136
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20758d"
+  },
+  "Account Balance": 10083.11709,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "20:01:00",
+  "Category": "Health",
+  "Amount": 14.87689379
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20758b"
+  },
+  "Account Balance": 10129.65665,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "08:24:00",
+  "Category": "Grocery",
+  "Amount": 23.86189511
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a6"
+  },
+  "Account Balance": 9651.357656,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "16:19:00",
+  "Category": "Transport",
+  "Amount": 24.46319532
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a8"
+  },
+  "Account Balance": 9615.784035,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "05:51:00",
+  "Category": "Entertainment",
+  "Amount": 21.59674904
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b4"
+  },
+  "Account Balance": 9327.79643,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "18:29:00",
+  "Category": "Grocery",
+  "Amount": 28.45754085
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c7"
+  },
+  "Account Balance": 8940.764796,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "02:54:00",
+  "Category": "Transport",
+  "Amount": 13.7421098
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20758c"
+  },
+  "Account Balance": 10105.79475,
+  "Date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "Time": "20:52:00",
+  "Category": "Grocery",
+  "Amount": 22.67766038
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207599"
+  },
+  "Account Balance": 9883.020735,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "17:04:00",
+  "Category": "Transport",
+  "Amount": 18.96641458
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20759a"
+  },
+  "Account Balance": 9864.05432,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "12:16:00",
+  "Category": "Entertainment",
+  "Amount": 12.61450351
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20759b"
+  },
+  "Account Balance": 9851.439817,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "11:33:00",
+  "Category": "Health",
+  "Amount": 19.8270097
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20759c"
+  },
+  "Account Balance": 9831.612807,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "16:52:00",
+  "Category": "Grocery",
+  "Amount": 23.59329496
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a7"
+  },
+  "Account Balance": 9626.89446,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "12:41:00",
+  "Category": "Entertainment",
+  "Amount": 11.11042506
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075aa"
+  },
+  "Account Balance": 9566.705344,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "18:25:00",
+  "Category": "Entertainment",
+  "Amount": 25.81792068
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b3"
+  },
+  "Account Balance": 9356.173517,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "09:42:00",
+  "Category": "Health",
+  "Amount": 28.37708718
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b6"
+  },
+  "Account Balance": 9272.70881,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "17:21:00",
+  "Category": "Grocery",
+  "Amount": 12.64330762
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207597"
+  },
+  "Account Balance": 9912.111744,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "01:40:00",
+  "Category": "Transport",
+  "Amount": 10.06435504
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207591"
+  },
+  "Account Balance": 10035.00955,
+  "Date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "Time": "23:27:00",
+  "Category": "Transport",
+  "Amount": 26.93328199
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a2"
+  },
+  "Account Balance": 9714.547599,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "12:55:00",
+  "Category": "Transport",
+  "Amount": 19.81286726
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a9"
+  },
+  "Account Balance": 9594.187286,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "23:00:00",
+  "Category": "Health",
+  "Amount": 27.4819425
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ad"
+  },
+  "Account Balance": 9496.969714,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "08:03:00",
+  "Category": "Food",
+  "Amount": 27.70254802
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b1"
+  },
+  "Account Balance": 9403.63155,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "00:28:00",
+  "Category": "Transport",
+  "Amount": 19.08814861
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075bc"
+  },
+  "Account Balance": 9161.01401,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "07:19:00",
+  "Category": "Entertainment",
+  "Amount": 14.65125072
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075bd"
+  },
+  "Account Balance": 9146.362759,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "15:21:00",
+  "Category": "Transport",
+  "Amount": 25.56030549
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075bf"
+  },
+  "Account Balance": 9104.8368,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "15:23:00",
+  "Category": "Others",
+  "Amount": 21.70133195
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c0"
+  },
+  "Account Balance": 9083.135468,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "00:55:00",
+  "Category": "Entertainment",
+  "Amount": 9.815319562
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c1"
+  },
+  "Account Balance": 9073.320148,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "07:52:00",
+  "Category": "Food",
+  "Amount": 16.84050911
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c2"
+  },
+  "Account Balance": 9056.479639,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "13:42:00",
+  "Category": "Transport",
+  "Amount": 25.77824243
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20759e"
+  },
+  "Account Balance": 9791.77819,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "09:39:00",
+  "Category": "Entertainment",
+  "Amount": 12.54645869
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a0"
+  },
+  "Account Balance": 9765.985522,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "06:33:00",
+  "Category": "Health",
+  "Amount": 23.49809781
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075a3"
+  },
+  "Account Balance": 9694.734731,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "05:29:00",
+  "Category": "Food",
+  "Amount": 14.2538435
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ab"
+  },
+  "Account Balance": 9540.887423,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "18:09:00",
+  "Category": "Transport",
+  "Amount": 23.81166498
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ac"
+  },
+  "Account Balance": 9517.075758,
+  "Date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "Time": "17:39:00",
+  "Category": "Food",
+  "Amount": 20.10604368
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ae"
+  },
+  "Account Balance": 9469.267166,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "23:56:00",
+  "Category": "Others",
+  "Amount": 21.98733179
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075b7"
+  },
+  "Account Balance": 9260.065503,
+  "Date": {
+    "$date": "2024-05-19T00:00:00.000Z"
+  },
+  "Time": "18:57:00",
+  "Category": "Entertainment",
+  "Amount": 27.21407412
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c3"
+  },
+  "Account Balance": 9030.701397,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "16:15:00",
+  "Category": "Others",
+  "Amount": 22.85923993
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075c5"
+  },
+  "Account Balance": 8982.338326,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "16:17:00",
+  "Category": "Entertainment",
+  "Amount": 13.26328101
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075cb"
+  },
+  "Account Balance": 8869.442083,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "11:00:00",
+  "Category": "Health",
+  "Amount": 16.14351754
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075da"
+  },
+  "Account Balance": 8612.606566,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "21:16:00",
+  "Category": "Transport",
+  "Amount": 16.68663959
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d2"
+  },
+  "Account Balance": 8746.449126,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "05:19:00",
+  "Category": "Food",
+  "Amount": 24.00328274
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ce"
+  },
+  "Account Balance": 8815.203324,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "07:32:00",
+  "Category": "Others",
+  "Amount": 24.86010468
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075db"
+  },
+  "Account Balance": 8595.919927,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "08:28:00",
+  "Category": "Grocery",
+  "Amount": 10.08510498
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075dd"
+  },
+  "Account Balance": 8569.281259,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "11:34:00",
+  "Category": "Transport",
+  "Amount": 22.30971616
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e0"
+  },
+  "Account Balance": 8509.407258,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "21:27:00",
+  "Category": "Grocery",
+  "Amount": 18.94306494
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e2"
+  },
+  "Account Balance": 8475.46326,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "22:45:00",
+  "Category": "Health",
+  "Amount": 26.65276362
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e5"
+  },
+  "Account Balance": 8425.70773,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "17:06:00",
+  "Category": "Transport",
+  "Amount": 11.9936545
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e8"
+  },
+  "Account Balance": 8379.307881,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "01:45:00",
+  "Category": "Others",
+  "Amount": 11.96315513
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20760b"
+  },
+  "Account Balance": 7661.078981,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "08:48:00",
+  "Category": "Others",
+  "Amount": 26.31662677
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207618"
+  },
+  "Account Balance": 7444.865203,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "01:06:00",
+  "Category": "Others",
+  "Amount": 17.22271024
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20761a"
+  },
+  "Account Balance": 7403.208316,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "14:41:00",
+  "Category": "Health",
+  "Amount": 26.95842713
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207631"
+  },
+  "Account Balance": 6983.403391,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "09:28:00",
+  "Category": "Others",
+  "Amount": 25.61145022
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207632"
+  },
+  "Account Balance": 6957.791941,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "03:46:00",
+  "Category": "Food",
+  "Amount": 26.08397224
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207636"
+  },
+  "Account Balance": 6877.950696,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "11:19:00",
+  "Category": "Health",
+  "Amount": 12.48089966
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207641"
+  },
+  "Account Balance": 6670.015527,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "05:56:00",
+  "Category": "Transport",
+  "Amount": 22.54591177
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207649"
+  },
+  "Account Balance": 6507.953827,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "22:43:00",
+  "Category": "Food",
+  "Amount": 12.55375169
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207667"
+  },
+  "Account Balance": 5893.131027,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "08:22:00",
+  "Category": "Transport",
+  "Amount": 22.47117375
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207674"
+  },
+  "Account Balance": 5681.339146,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "09:01:00",
+  "Category": "Others",
+  "Amount": 14.83787214
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20767a"
+  },
+  "Account Balance": 5575.754446,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "05:13:00",
+  "Category": "Others",
+  "Amount": 11.80051469
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075dc"
+  },
+  "Account Balance": 8585.834822,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "09:08:00",
+  "Category": "Grocery",
+  "Amount": 16.55356246
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e1"
+  },
+  "Account Balance": 8490.464193,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "20:16:00",
+  "Category": "Entertainment",
+  "Amount": 15.00093293
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f9"
+  },
+  "Account Balance": 8042.583829,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "19:00:00",
+  "Category": "Grocery",
+  "Amount": 26.17197352
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075fa"
+  },
+  "Account Balance": 8016.411855,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "06:37:00",
+  "Category": "Grocery",
+  "Amount": 28.75224055
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075fd"
+  },
+  "Account Balance": 7942.890771,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "16:32:00",
+  "Category": "Others",
+  "Amount": 25.63866385
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20761e"
+  },
+  "Account Balance": 7316.779685,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "14:17:00",
+  "Category": "Grocery",
+  "Amount": 19.08479082
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207621"
+  },
+  "Account Balance": 7267.144276,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "16:16:00",
+  "Category": "Transport",
+  "Amount": 24.13350778
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207625"
+  },
+  "Account Balance": 7187.417863,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "17:41:00",
+  "Category": "Others",
+  "Amount": 12.9421404
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207628"
+  },
+  "Account Balance": 7143.076245,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "18:36:00",
+  "Category": "Transport",
+  "Amount": 17.80130422
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207634"
+  },
+  "Account Balance": 6915.032169,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "21:55:00",
+  "Category": "Grocery",
+  "Amount": 25.32014294
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207638"
+  },
+  "Account Balance": 6854.689539,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "00:25:00",
+  "Category": "Food",
+  "Amount": 22.63850414
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207643"
+  },
+  "Account Balance": 6625.527026,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "14:44:00",
+  "Category": "Health",
+  "Amount": 10.24143539
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20766e"
+  },
+  "Account Balance": 5767.283401,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "17:55:00",
+  "Category": "Health",
+  "Amount": 13.99962344
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20766f"
+  },
+  "Account Balance": 5753.283778,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "23:07:00",
+  "Category": "Entertainment",
+  "Amount": 21.90950142
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d5"
+  },
+  "Account Balance": 8688.907564,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "06:51:00",
+  "Category": "Others",
+  "Amount": 27.84430401
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d8"
+  },
+  "Account Balance": 8635.039652,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "11:24:00",
+  "Category": "Others",
+  "Amount": 11.9279851
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e7"
+  },
+  "Account Balance": 8392.280591,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "15:21:00",
+  "Category": "Grocery",
+  "Amount": 12.97271031
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ef"
+  },
+  "Account Balance": 8244.425135,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "02:25:00",
+  "Category": "Others",
+  "Amount": 18.76178881
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f2"
+  },
+  "Account Balance": 8185.005973,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "00:20:00",
+  "Category": "Food",
+  "Amount": 15.14036997
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075fb"
+  },
+  "Account Balance": 7987.659615,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "14:40:00",
+  "Category": "Transport",
+  "Amount": 23.83716823
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207605"
+  },
+  "Account Balance": 7778.119062,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "00:42:00",
+  "Category": "Food",
+  "Amount": 20.62449223
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207609"
+  },
+  "Account Balance": 7692.305688,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "19:26:00",
+  "Category": "Health",
+  "Amount": 16.12241989
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207610"
+  },
+  "Account Balance": 7574.96264,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "18:35:00",
+  "Category": "Others",
+  "Amount": 12.30068599
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207616"
+  },
+  "Account Balance": 7477.855661,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "07:11:00",
+  "Category": "Food",
+  "Amount": 23.02663858
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207624"
+  },
+  "Account Balance": 7207.573917,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "22:57:00",
+  "Category": "Grocery",
+  "Amount": 20.15605386
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207629"
+  },
+  "Account Balance": 7125.274941,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "18:56:00",
+  "Category": "Health",
+  "Amount": 17.39202098
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207635"
+  },
+  "Account Balance": 6889.712026,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "19:31:00",
+  "Category": "Food",
+  "Amount": 11.76132993
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20763a"
+  },
+  "Account Balance": 6817.615038,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "16:59:00",
+  "Category": "Grocery",
+  "Amount": 18.60658956
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20763c"
+  },
+  "Account Balance": 6781.372671,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "15:34:00",
+  "Category": "Food",
+  "Amount": 27.98714547
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207650"
+  },
+  "Account Balance": 6364.783553,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "00:15:00",
+  "Category": "Grocery",
+  "Amount": 19.74063
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207671"
+  },
+  "Account Balance": 5715.776131,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "17:00:00",
+  "Category": "Entertainment",
+  "Amount": 9.696090025
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075cf"
+  },
+  "Account Balance": 8790.343219,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "02:58:00",
+  "Category": "Transport",
+  "Amount": 13.11464152
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d3"
+  },
+  "Account Balance": 8722.445844,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "11:02:00",
+  "Category": "Others",
+  "Amount": 20.43771257
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075df"
+  },
+  "Account Balance": 8534.227015,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "09:42:00",
+  "Category": "Others",
+  "Amount": 24.8197575
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ec"
+  },
+  "Account Balance": 8305.559995,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "08:35:00",
+  "Category": "Others",
+  "Amount": 26.08279459
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f1"
+  },
+  "Account Balance": 8199.948254,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "01:02:00",
+  "Category": "Grocery",
+  "Amount": 14.94228093
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20760c"
+  },
+  "Account Balance": 7634.762355,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "07:08:00",
+  "Category": "Grocery",
+  "Amount": 21.42909171
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207614"
+  },
+  "Account Balance": 7518.853988,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "06:07:00",
+  "Category": "Food",
+  "Amount": 16.75902393
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207620"
+  },
+  "Account Balance": 7288.022556,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "22:10:00",
+  "Category": "Health",
+  "Amount": 20.87827933
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207626"
+  },
+  "Account Balance": 7174.475723,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "16:53:00",
+  "Category": "Transport",
+  "Amount": 16.93331101
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20762f"
+  },
+  "Account Balance": 7022.057431,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "20:39:00",
+  "Category": "Health",
+  "Amount": 15.69764117
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207633"
+  },
+  "Account Balance": 6931.707968,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "07:51:00",
+  "Category": "Entertainment",
+  "Amount": 16.67579967
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207645"
+  },
+  "Account Balance": 6596.1627,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "23:18:00",
+  "Category": "Entertainment",
+  "Amount": 21.05915437
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207647"
+  },
+  "Account Balance": 6563.950294,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "10:25:00",
+  "Category": "Health",
+  "Amount": 28.11105332
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207648"
+  },
+  "Account Balance": 6535.839241,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "11:11:00",
+  "Category": "Others",
+  "Amount": 27.88541364
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20764b"
+  },
+  "Account Balance": 6485.666565,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "06:35:00",
+  "Category": "Grocery",
+  "Amount": 26.11930638
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20764c"
+  },
+  "Account Balance": 6459.547259,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "14:50:00",
+  "Category": "Grocery",
+  "Amount": 24.54855416
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207653"
+  },
+  "Account Balance": 6302.525777,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "19:58:00",
+  "Category": "Transport",
+  "Amount": 28.7890831
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207655"
+  },
+  "Account Balance": 6253.84293,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "17:21:00",
+  "Category": "Others",
+  "Amount": 22.10141696
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207657"
+  },
+  "Account Balance": 6210.128882,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "20:29:00",
+  "Category": "Food",
+  "Amount": 22.88559267
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20765e"
+  },
+  "Account Balance": 6062.873864,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "18:13:00",
+  "Category": "Entertainment",
+  "Amount": 19.45022982
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207660"
+  },
+  "Account Balance": 6027.767184,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "13:01:00",
+  "Category": "Grocery",
+  "Amount": 19.35604443
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207662"
+  },
+  "Account Balance": 5982.495646,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "06:27:00",
+  "Category": "Food",
+  "Amount": 12.14993089
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207664"
+  },
+  "Account Balance": 5957.612636,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "23:41:00",
+  "Category": "Entertainment",
+  "Amount": 19.48643802
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20766a"
+  },
+  "Account Balance": 5833.932005,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "22:02:00",
+  "Category": "Food",
+  "Amount": 17.23677989
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20766c"
+  },
+  "Account Balance": 5796.674888,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "12:54:00",
+  "Category": "Health",
+  "Amount": 10.12576206
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207678"
+  },
+  "Account Balance": 5616.524589,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "09:33:00",
+  "Category": "Entertainment",
+  "Amount": 13.05091475
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e3"
+  },
+  "Account Balance": 8448.810496,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "22:18:00",
+  "Category": "Entertainment",
+  "Amount": 11.42565906
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d1"
+  },
+  "Account Balance": 8761.38139,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "18:53:00",
+  "Category": "Food",
+  "Amount": 14.93226399
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e4"
+  },
+  "Account Balance": 8437.384837,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "21:25:00",
+  "Category": "Entertainment",
+  "Amount": 11.67710716
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ea"
+  },
+  "Account Balance": 8344.788761,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "09:38:00",
+  "Category": "Transport",
+  "Amount": 13.08379856
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f0"
+  },
+  "Account Balance": 8225.663347,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "16:30:00",
+  "Category": "Grocery",
+  "Amount": 25.71509287
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f5"
+  },
+  "Account Balance": 8134.161523,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "05:56:00",
+  "Category": "Food",
+  "Amount": 20.47913878
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f6"
+  },
+  "Account Balance": 8113.682384,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "05:02:00",
+  "Category": "Health",
+  "Amount": 20.02648184
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075fe"
+  },
+  "Account Balance": 7917.252107,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "00:50:00",
+  "Category": "Entertainment",
+  "Amount": 28.04505498
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ff"
+  },
+  "Account Balance": 7889.207052,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "22:24:00",
+  "Category": "Others",
+  "Amount": 18.23629069
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20760e"
+  },
+  "Account Balance": 7602.224268,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "01:25:00",
+  "Category": "Health",
+  "Amount": 12.35568416
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207611"
+  },
+  "Account Balance": 7562.661954,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "15:39:00",
+  "Category": "Grocery",
+  "Amount": 15.3891759
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207617"
+  },
+  "Account Balance": 7454.829022,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "14:19:00",
+  "Category": "Entertainment",
+  "Amount": 9.963819309
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207627"
+  },
+  "Account Balance": 7157.542412,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "23:39:00",
+  "Category": "Food",
+  "Amount": 14.46616709
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20762b"
+  },
+  "Account Balance": 7082.003155,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "10:27:00",
+  "Category": "Food",
+  "Amount": 11.07709481
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20763b"
+  },
+  "Account Balance": 6799.008448,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "11:41:00",
+  "Category": "Transport",
+  "Amount": 17.63577665
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207642"
+  },
+  "Account Balance": 6647.469615,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "08:46:00",
+  "Category": "Food",
+  "Amount": 21.94258896
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207644"
+  },
+  "Account Balance": 6615.285591,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "20:31:00",
+  "Category": "Entertainment",
+  "Amount": 19.12289121
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20764a"
+  },
+  "Account Balance": 6495.400076,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "21:32:00",
+  "Category": "Entertainment",
+  "Amount": 9.733510398
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207651"
+  },
+  "Account Balance": 6345.042923,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "11:22:00",
+  "Category": "Entertainment",
+  "Amount": 18.73865113
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20765a"
+  },
+  "Account Balance": 6142.309764,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "07:05:00",
+  "Category": "Health",
+  "Amount": 25.02184506
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20765c"
+  },
+  "Account Balance": 6098.342927,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "15:39:00",
+  "Category": "Transport",
+  "Amount": 22.0467557
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20765d"
+  },
+  "Account Balance": 6076.296171,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "06:49:00",
+  "Category": "Transport",
+  "Amount": 13.4223069
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20765f"
+  },
+  "Account Balance": 6043.423634,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "23:32:00",
+  "Category": "Grocery",
+  "Amount": 15.65645047
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207665"
+  },
+  "Account Balance": 5938.126198,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "10:25:00",
+  "Category": "Others",
+  "Amount": 20.43332304
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20767d"
+  },
+  "Account Balance": 5520.418714,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "06:11:00",
+  "Category": "Entertainment",
+  "Amount": 17.57199383
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075cd"
+  },
+  "Account Balance": 8838.884703,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "05:26:00",
+  "Category": "Grocery",
+  "Amount": 23.68137902
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075cc"
+  },
+  "Account Balance": 8853.298566,
+  "Date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "Time": "05:24:00",
+  "Category": "Grocery",
+  "Amount": 14.41386255
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075de"
+  },
+  "Account Balance": 8546.971543,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "00:44:00",
+  "Category": "Food",
+  "Amount": 12.74452777
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f4"
+  },
+  "Account Balance": 8152.253531,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "04:07:00",
+  "Category": "Entertainment",
+  "Amount": 18.09200846
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f7"
+  },
+  "Account Balance": 8093.655902,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "16:13:00",
+  "Category": "Transport",
+  "Amount": 24.03251504
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f8"
+  },
+  "Account Balance": 8069.623387,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "07:50:00",
+  "Category": "Food",
+  "Amount": 27.03955848
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075fc"
+  },
+  "Account Balance": 7963.822446,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "20:13:00",
+  "Category": "Entertainment",
+  "Amount": 20.9316756
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207600"
+  },
+  "Account Balance": 7870.970761,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "09:30:00",
+  "Category": "Grocery",
+  "Amount": 13.44216262
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207601"
+  },
+  "Account Balance": 7857.528599,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "12:25:00",
+  "Category": "Food",
+  "Amount": 12.56862617
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207602"
+  },
+  "Account Balance": 7844.959972,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "06:21:00",
+  "Category": "Health",
+  "Amount": 14.94527431
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207603"
+  },
+  "Account Balance": 7830.014698,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "06:11:00",
+  "Category": "Food",
+  "Amount": 26.2056987
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207607"
+  },
+  "Account Balance": 7736.423225,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "12:51:00",
+  "Category": "Transport",
+  "Amount": 22.33744132
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207608"
+  },
+  "Account Balance": 7714.085784,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "21:49:00",
+  "Category": "Entertainment",
+  "Amount": 21.78009616
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20760d"
+  },
+  "Account Balance": 7613.333263,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "18:15:00",
+  "Category": "Health",
+  "Amount": 11.10899537
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20760f"
+  },
+  "Account Balance": 7589.868583,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "01:19:00",
+  "Category": "Entertainment",
+  "Amount": 14.90594367
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207612"
+  },
+  "Account Balance": 7547.272778,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "09:52:00",
+  "Category": "Grocery",
+  "Amount": 13.40314644
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20761d"
+  },
+  "Account Balance": 7335.205603,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "16:58:00",
+  "Category": "Health",
+  "Amount": 18.42591859
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20761f"
+  },
+  "Account Balance": 7297.694894,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "20:52:00",
+  "Category": "Transport",
+  "Amount": 9.672338451
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20764e"
+  },
+  "Account Balance": 6409.939832,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "20:02:00",
+  "Category": "Health",
+  "Amount": 16.46244951
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207654"
+  },
+  "Account Balance": 6273.736694,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "01:52:00",
+  "Category": "Others",
+  "Amount": 19.89376372
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207659"
+  },
+  "Account Balance": 6161.602726,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "17:44:00",
+  "Category": "Food",
+  "Amount": 19.29296229
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20765b"
+  },
+  "Account Balance": 6117.287919,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "18:05:00",
+  "Category": "Entertainment",
+  "Amount": 18.94499179
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207661"
+  },
+  "Account Balance": 6008.41114,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "12:12:00",
+  "Category": "Health",
+  "Amount": 25.91549334
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20766d"
+  },
+  "Account Balance": 5786.549126,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "12:16:00",
+  "Category": "Others",
+  "Amount": 19.26572418
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207673"
+  },
+  "Account Balance": 5691.088571,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "13:26:00",
+  "Category": "Food",
+  "Amount": 9.749425106
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20767e"
+  },
+  "Account Balance": 5502.84672,
+  "Date": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "Time": "09:09:00",
+  "Category": "Food",
+  "Amount": 11.42853696
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d4"
+  },
+  "Account Balance": 8702.008131,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "01:17:00",
+  "Category": "Food",
+  "Amount": 13.10056689
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d9"
+  },
+  "Account Balance": 8623.111667,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "10:19:00",
+  "Category": "Health",
+  "Amount": 10.50510084
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e9"
+  },
+  "Account Balance": 8367.344725,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "08:47:00",
+  "Category": "Food",
+  "Amount": 22.55596491
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ee"
+  },
+  "Account Balance": 8268.791112,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "16:59:00",
+  "Category": "Health",
+  "Amount": 24.36597658
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075f3"
+  },
+  "Account Balance": 8169.865603,
+  "Date": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "Time": "10:23:00",
+  "Category": "Grocery",
+  "Amount": 17.61207163
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20760a"
+  },
+  "Account Balance": 7676.183268,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "06:58:00",
+  "Category": "Entertainment",
+  "Amount": 15.10428664
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207613"
+  },
+  "Account Balance": 7533.869631,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "17:32:00",
+  "Category": "Others",
+  "Amount": 15.01564344
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207615"
+  },
+  "Account Balance": 7502.094964,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "04:06:00",
+  "Category": "Entertainment",
+  "Amount": 24.23930339
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207619"
+  },
+  "Account Balance": 7427.642492,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "07:36:00",
+  "Category": "Health",
+  "Amount": 24.43417653
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20761b"
+  },
+  "Account Balance": 7376.249889,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "02:51:00",
+  "Category": "Food",
+  "Amount": 21.85900513
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20761c"
+  },
+  "Account Balance": 7354.390884,
+  "Date": {
+    "$date": "2024-05-25T00:00:00.000Z"
+  },
+  "Time": "14:33:00",
+  "Category": "Health",
+  "Amount": 19.18528026
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207622"
+  },
+  "Account Balance": 7243.010768,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "10:22:00",
+  "Category": "Grocery",
+  "Amount": 13.46956732
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207623"
+  },
+  "Account Balance": 7229.541201,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "13:05:00",
+  "Category": "Entertainment",
+  "Amount": 21.96728383
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20762a"
+  },
+  "Account Balance": 7107.88292,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "10:43:00",
+  "Category": "Health",
+  "Amount": 25.87976478
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20762d"
+  },
+  "Account Balance": 7060.608889,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "22:43:00",
+  "Category": "Health",
+  "Amount": 25.29169056
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207630"
+  },
+  "Account Balance": 7006.35979,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "13:52:00",
+  "Category": "Health",
+  "Amount": 22.95639876
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20763d"
+  },
+  "Account Balance": 6753.385526,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "07:35:00",
+  "Category": "Transport",
+  "Amount": 10.10812265
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20763e"
+  },
+  "Account Balance": 6743.277403,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "14:06:00",
+  "Category": "Transport",
+  "Amount": 22.16214957
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207646"
+  },
+  "Account Balance": 6575.103545,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "08:07:00",
+  "Category": "Health",
+  "Amount": 11.1532509
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20764d"
+  },
+  "Account Balance": 6434.998705,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "15:01:00",
+  "Category": "Grocery",
+  "Amount": 25.05887287
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207652"
+  },
+  "Account Balance": 6326.304272,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "11:43:00",
+  "Category": "Health",
+  "Amount": 23.77849517
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207656"
+  },
+  "Account Balance": 6231.741513,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "11:14:00",
+  "Category": "Transport",
+  "Amount": 21.61263109
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207663"
+  },
+  "Account Balance": 5970.345715,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "00:20:00",
+  "Category": "Others",
+  "Amount": 12.73307939
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207669"
+  },
+  "Account Balance": 5846.686187,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "02:43:00",
+  "Category": "Transport",
+  "Amount": 12.75418204
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20766b"
+  },
+  "Account Balance": 5816.695225,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "10:41:00",
+  "Category": "Food",
+  "Amount": 20.02033738
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207672"
+  },
+  "Account Balance": 5706.080041,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "01:07:00",
+  "Category": "Entertainment",
+  "Amount": 14.99147024
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207679"
+  },
+  "Account Balance": 5603.473674,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "19:24:00",
+  "Category": "Grocery",
+  "Amount": 27.71922789
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20767c"
+  },
+  "Account Balance": 5537.220662,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "09:46:00",
+  "Category": "Health",
+  "Amount": 16.80194791
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d0"
+  },
+  "Account Balance": 8777.228578,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "20:56:00",
+  "Category": "Others",
+  "Amount": 15.84718768
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d6"
+  },
+  "Account Balance": 8661.06326,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "04:21:00",
+  "Category": "Entertainment",
+  "Amount": 11.58500021
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075d7"
+  },
+  "Account Balance": 8649.47826,
+  "Date": {
+    "$date": "2024-05-21T00:00:00.000Z"
+  },
+  "Time": "02:01:00",
+  "Category": "Entertainment",
+  "Amount": 14.43860762
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075e6"
+  },
+  "Account Balance": 8413.714076,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "09:13:00",
+  "Category": "Food",
+  "Amount": 21.43348476
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075eb"
+  },
+  "Account Balance": 8331.704962,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "15:39:00",
+  "Category": "Food",
+  "Amount": 26.1449666
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e2075ed"
+  },
+  "Account Balance": 8279.477201,
+  "Date": {
+    "$date": "2024-05-22T00:00:00.000Z"
+  },
+  "Time": "13:54:00",
+  "Category": "Health",
+  "Amount": 10.68608883
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207604"
+  },
+  "Account Balance": 7803.808999,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "10:30:00",
+  "Category": "Entertainment",
+  "Amount": 25.68993698
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207606"
+  },
+  "Account Balance": 7757.49457,
+  "Date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "Time": "19:37:00",
+  "Category": "Others",
+  "Amount": 21.07134474
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20762c"
+  },
+  "Account Balance": 7070.92606,
+  "Date": {
+    "$date": "2024-05-26T00:00:00.000Z"
+  },
+  "Time": "10:42:00",
+  "Category": "Entertainment",
+  "Amount": 10.31717126
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20762e"
+  },
+  "Account Balance": 7035.317198,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "01:28:00",
+  "Category": "Transport",
+  "Amount": 13.25976754
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207637"
+  },
+  "Account Balance": 6865.469796,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "15:40:00",
+  "Category": "Others",
+  "Amount": 10.7802573
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207639"
+  },
+  "Account Balance": 6832.051035,
+  "Date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "Time": "03:01:00",
+  "Category": "Grocery",
+  "Amount": 14.43599721
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20763f"
+  },
+  "Account Balance": 6721.115254,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "07:11:00",
+  "Category": "Others",
+  "Amount": 23.9048976
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207640"
+  },
+  "Account Balance": 6697.210356,
+  "Date": {
+    "$date": "2024-05-28T00:00:00.000Z"
+  },
+  "Time": "15:28:00",
+  "Category": "Food",
+  "Amount": 27.19482917
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20764f"
+  },
+  "Account Balance": 6393.477382,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "16:58:00",
+  "Category": "Food",
+  "Amount": 28.69382887
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207658"
+  },
+  "Account Balance": 6187.24329,
+  "Date": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "Time": "18:39:00",
+  "Category": "Others",
+  "Amount": 25.64056354
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207666"
+  },
+  "Account Balance": 5917.692875,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "06:02:00",
+  "Category": "Transport",
+  "Amount": 24.56184788
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207668"
+  },
+  "Account Balance": 5870.659853,
+  "Date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "Time": "18:30:00",
+  "Category": "Entertainment",
+  "Amount": 23.97366635
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207670"
+  },
+  "Account Balance": 5731.374277,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "08:16:00",
+  "Category": "Grocery",
+  "Amount": 15.59814519
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207675"
+  },
+  "Account Balance": 5666.501274,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "23:04:00",
+  "Category": "Entertainment",
+  "Amount": 17.40133305
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207676"
+  },
+  "Account Balance": 5649.099941,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "06:09:00",
+  "Category": "Grocery",
+  "Amount": 11.48047403
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e207677"
+  },
+  "Account Balance": 5637.619467,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "05:27:00",
+  "Category": "Food",
+  "Amount": 21.09487812
+},
+{
+  "_id": {
+    "$oid": "6698380e8e5236ac2e20767b"
+  },
+  "Account Balance": 5563.953931,
+  "Date": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "Time": "17:09:00",
+  "Category": "Health",
+  "Amount": 26.73326926
+}]
