@@ -69,4 +69,16 @@ export const payIncomeTax = (req: Request, res: Response) => {
   }
 }
 
+export const sellAsset = (req: Request, res: Response) => {
+  const amount = req.body.amount;
+  const assetName = req.body.assetName;
+  console.log(amount + "  " + assetName);
+  try {
+    game.sellAsset(amount, assetName);
+    res.json(game);
+  } catch (error) {
+    res.status(400).send(error);
+  }
+}
+
 

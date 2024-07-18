@@ -29,9 +29,9 @@ const Investments = () => {
   const handleSell = async () => {
     if (selectedCategory === null) return;
 
-    const response = await axios.post("http://localhost:3000/game/sell", {
-      assetName: Game.assets[selectedCategory].name,
-      amount: Number(investmentAmount),
+    const response = await axios.get("http://localhost:3000/game/sell-asset", {
+      assetName: selectedCategory.name,
+      amount: Number(selectedCategory.currentValue),
     });
     setGame(response.data);
     console.log(response.data);
