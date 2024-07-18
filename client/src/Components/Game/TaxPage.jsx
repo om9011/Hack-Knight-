@@ -16,7 +16,6 @@ const TaxPage = () => {
       "http://localhost:3000/game/pay-income-tax"
     );
     setGame(response.data);
-    // navigate("/");
   };
 
   if (Game.taxPaid > 0) {

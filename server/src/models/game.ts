@@ -135,7 +135,7 @@ class Game {
         // Randomly increase or reduce the value of the asset
         let multiplier = 1 + Math.random() - 0.5;
         asset.currentValue = asset.currentValue * multiplier;
-        asset.percentChange = ((asset.currentValue - asset.price) / asset.price) * 100;
+        asset.percentChange = ((asset.currentValue - asset.investedAmount) / asset.investedAmount) * 100;
       });
     }
     if (this.monthNumber >= this.totalMonths) {

@@ -5,21 +5,26 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Sidebar = ({ children }) => {
     const menuItems = [
-        {
-            path: "/",
-            name: "Home",
-            icon: faHome,
-        },
-        {
-            path: "/",
-            name: "Learn",
-            icon: faGraduationCap,
-        },
-        {
-            path: "/dashboard/grades",
-            name: "Expenses Tracker",
-            icon: faWallet,
-        },
+      {
+        path: "/",
+        name: "Home",
+        icon: faHome,
+      },
+      {
+        path: "/",
+        name: "Learn",
+        icon: faGraduationCap,
+      },
+      {
+        path: "/dashboard/grades",
+        name: "Expenses Tracker",
+        icon: faWallet,
+      },
+      {
+        path: "/game",
+        name: "Financial Education Game",
+        icon: faWallet,
+      },
     ];
 
     return (
