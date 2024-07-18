@@ -1,3 +1,5 @@
+import { newsData } from "./data";
+
 interface Entry {
   description: string;
   amount: number;
@@ -30,6 +32,7 @@ class Game {
   totalMonths: number;
   isGameOver: boolean;
   taxPaid: number;
+  news: Array<Array<string>>;
 
   constructor() {
     this.balance = 0;
@@ -116,6 +119,7 @@ class Game {
     this.totalMonths = 2;
     this.isGameOver = false;
     this.taxPaid = 0;
+    this.news = newsData;
   }
 
   addIncome(description: string, amount: number): void {
