@@ -13,6 +13,13 @@ export const newsData = [
 ];
 
 export const hintsData = [
-  ["Invest in Real Estate", "Hint 2", "Hint 3"],
-  ["Invest in Gold", "Hint 2", "Hint 3"],
+  [
+    "When interest rates are reduced, borrowing costs for mortgages and loans decrease. This makes buying real estate more affordable for consumers, leading to increased demand and higher real estate prices.",
+  ],
+  [
+    "Smuggling of gold can lead to a supply shortage in the legal market, potentially driving up gold prices.",
+  ],
+  [
+    "Positive news about vaccine development boosts market confidence, leading to increased investment in stocks and profit booking in metals.",
+  ],
 ];

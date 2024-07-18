@@ -1,4 +1,4 @@
-import { newsData } from "./data";
+import { hintsData, newsData } from "./data";
 
 interface Entry {
   description: string;
@@ -33,6 +33,7 @@ class Game {
   isGameOver: boolean;
   taxPaid: number;
   news: Array<Array<string>>;
+  hints : Array<Array<string>>;
 
   constructor() {
     this.balance = 0;
@@ -53,15 +54,15 @@ class Game {
       },
       {
         description: "Light Bill",
-        amount: 200,
+        amount: 2000,
       },
       {
         description: "Internet Bill",
-        amount: 80,
+        amount: 800,
       },
       {
         description: "Groceries",
-        amount: 300,
+        amount: 1000,
       },
     ];
     this.assets = [
@@ -120,6 +121,7 @@ class Game {
     this.isGameOver = false;
     this.taxPaid = 0;
     this.news = newsData;
+    this.hints = hintsData
   }
 
   addIncome(description: string, amount: number): void {
@@ -216,6 +218,19 @@ class Game {
     } else {
       throw new Error("Insufficient balance to buy asset.");
     }
+  }
+
+  sellAsset(amount: number, assetName: string): void {
+    this.assets.forEach((asset) => {
+      if (asset.name == assetName) {
+        if (asset.currentValue >= amount) {
+          asset.currentValue -= amount;
+          this.balance += amount;
+        } else {
+          throw new Error("Insufficient asset to sell.");
+        }
+      }
+    });
   }
 
   payIncomeTax(): void {
