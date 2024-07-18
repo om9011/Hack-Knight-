@@ -1,0 +1,29 @@
+{
+    "game": "Finanzo",
+    "description": "Finanzo is a simulation of real life. Here you have to manage the money that comes every month by paying off expenses, making deposits, trading...etc and achieve goals.",
+    "instructions": {
+      "overview": "Your job here is simple. For every month you have to go to the Income/Expense window...",
+      "steps": [
+        "Tap on Collect All to collect Incomes of the month",
+        "Tap on Pay All to pay the expenses of the month",
+        "Come back and tap on pass to go to next month.",
+        "Alternatively, you can enable Auto Collect & Pay in settings. Then, when you tap on pass, incomes will be automatically collected, expenses will be automatically paid and game will pass to next month.",
+        "Tap on Progress button to see the tasks of the level. You can finish the game once all tasks are completed.",
+        "The goal is to complete the tasks as quickly as possible.",
+        "The Statement window gives you the current assets and liabilities.",
+        "You can invest your money in stocks or you can deposit in bank and earn interests or you can buy properties in auction or you can try mutual funds."
+      ],
+      "modules": {
+        "Escape Rat Race": {
+          "description": "This is a basic module. It consists of levels where you will be required to pay off a loan, increase cashflow, or to earn some money. These levels will be based on escaping the rat race."
+        },
+        "Get Rich": {
+          "description": "This module consists of levels where you will be required to buy properties, pay off loans and earn money. These levels will be based on real estates. These levels will be tougher than the previous module."
+        },
+        "Story Mode": {
+          "description": "This is the most interesting module of the game. Here you would play the life of a character. Every year, there will be a change in terms of incomes, expenses, assets and liabilities. Unexpected expenses will make this module, the toughest."
+        }
+      }
+    }
+  }
+  

@@ -6,23 +6,18 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Sidebar = ({ children }) => {
     const menuItems = [
       {
-        path: "/",
+        path: "/main",
         name: "Home",
         icon: faHome,
       },
       {
-        path: "/",
+        path: "/main/learn",
         name: "Learn",
         icon: faGraduationCap,
       },
       {
-        path: "/dashboard/grades",
+        path: "/main/track-expenses",
         name: "Expenses Tracker",
-        icon: faWallet,
-      },
-      {
-        path: "/game",
-        name: "Financial Education Game",
         icon: faWallet,
       },
     ];
@@ -37,7 +32,7 @@ const Sidebar = ({ children }) => {
                     </Link>
                 ))}
             </div>
-            <div className='w-full border rounded-md p-4 m-3'>
+            <div className='w-full overflow-y-scroll border rounded-md p-4 m-3'>
                 {children}
             </div>
         </div>

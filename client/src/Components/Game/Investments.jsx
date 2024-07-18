@@ -3,6 +3,13 @@ import { useRecoilState } from "recoil";
 import GameState from "../../State/GameState.jsx";
 import axios from "axios";
 
+// Import images
+import stockMarketIcon from "./images/stockmarket-icon.png";
+import goldIcon from "./images/gold-icon.png";
+import bankIcon from "./images/bank-icon.png";
+import realEstateIcon from "./images/real-estate-icon.png";
+import bitcoinIcon from "./images/bitcoin-icon.png";
+
 const Investments = () => {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [investmentAmount, setInvestmentAmount] = useState(0);
@@ -30,6 +37,15 @@ const Investments = () => {
     console.log(response.data);
   };
 
+  // Mapping between asset names and their corresponding images
+  const assetImages = {
+    "STOCK MARKET (NIFTY 50)": stockMarketIcon,
+    "GOLD": goldIcon,
+    "BANK DEPOSIT": bankIcon,
+    "REAL ESTATE": realEstateIcon,
+    "BITCOIN": bitcoinIcon,
+  };
+
   return (
     <div className="flex">
       {/* Left Side - Investment Categories */}
@@ -46,9 +62,9 @@ const Investments = () => {
                 onClick={() => setSelectedCategory(index)}
               >
                 <img
-                  src={`/images/${asset.name.toLowerCase()}-icon.png`} // Example: stock-market-icon.png
+                  src={assetImages[asset.name]}
                   alt={`${asset.name} Icon`}
-                  className="w-6 h-6 mr-2"
+                  className="w-8 h-8 mr-2"
                 />
                 {asset.name}
               </div>
@@ -62,7 +78,12 @@ const Investments = () => {
         <h2 className="text-xl font-semibold mb-4">Investment Details</h2>
         {selectedCategory !== null && (
           <div className="border p-4 rounded-lg shadow-md">
-            <h3 className="text-lg font-semibold mb-4">
+            <h3 className="flex justify-center items-center text-lg font-semibold mb-4 gap-4">
+            <img
+                  src={assetImages[Game.assets[selectedCategory].name]}
+                  alt={`${selectedCategory.name} Icon`}
+                  className="w-16 mr-2"
+                />
               {Game.assets[selectedCategory].name}
             </h3>
             <form className="mb-4">

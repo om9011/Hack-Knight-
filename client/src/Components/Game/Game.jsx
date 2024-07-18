@@ -13,7 +13,7 @@ const Game = () => {
     <>
     <Navbar >
         <Routes>
-          <Route path="/" element={<Main  />} />
+          <Route path="/start" element={<Main  />} />
           <Route path="/wallet-info" element={<WalletInfo />} />
           {/* <Route path="/monthly-expenses" element={<MonthlyExpenses />} /> */}
           <Route path="/investments" element={<Investments />} />

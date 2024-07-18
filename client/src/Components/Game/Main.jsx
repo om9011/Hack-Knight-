@@ -11,20 +11,19 @@ const Main = () => {
 
     const handleNextMonth = async() =>{
       const response = await axios.get('http://localhost:3000/game/nextmonth');
-      setGame(response.data);
-      
+      setGame(response.data); 
     }
-    if (Game.isGameOver) {
-      return <TaxPage />;
-    }
+
+    
+
   return (
-    <div className='flex bg-purple-100 h-[92vh] w-full justify-center items-start'>
+    <div className='flex bg-purple-100 h-[92vh] w-full justify-center items-center'>
       <div className="main p-4 w-4/5">
         <h2 className="text-2xl text-center font-bold mb-4">Welcome to Your Game</h2>
-        <div className="grid grid-cols-2 gap-6">
+        <div className="grid grid-cols-3 gap-6">
           {/* Wallet Info Section */}
           <div className="section">
-            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-2 gap-4 h-[200px]">
+            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-1 gap-4 h-[300px]">
               <div>
                 <img src="https://www.antiersolutions.com/wp-content/uploads/2023/11/Wallet_Cash_550px.gif" alt="Wallet Info" className="mb-4 rounded-lg w-16" />
                 <h3 className="text-xl font-semibold mb-2">Wallet Info</h3>
@@ -38,23 +37,9 @@ const Main = () => {
             </div>
           </div>
 
-          {/* Monthly Expenses Section */}
-          <div className="section">
-            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-2 gap-4 h-[200px]">
-              <div>
-                <img src="https://tse3.mm.bing.net/th?id=OIP.BTHv_yCXave4aHj10e0ezgHaHa&pid=Api&P=0&h=180" alt="Monthly Expenses" className="w-16 mb-4 rounded-lg" />
-                <h3 className="text-xl font-semibold mb-2">Monthly Expenses</h3>
-                <p className="text-gray-700 mb-4">Track your monthly expenses easily.</p>
-              </div>
-              <div className="flex items-center justify-center">
-                <button className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-lg">Go to Monthly Expenses</button>
-              </div>
-            </div>
-          </div>
-
           {/* Investments Section */}
           <div className="section">
-            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-2 gap-4 h-[200px]">
+            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-1 gap-4 h-[300px]">
               <div>
                 <img src="https://cdn-icons-png.flaticon.com/512/7656/7656472.png" alt="Investments" className="w-16 mb-4 rounded-lg" />
                 <h3 className="text-xl font-semibold mb-2">Investments</h3>
@@ -68,7 +53,7 @@ const Main = () => {
 
           {/* Ownership Details Section */}
           <div className="section">
-            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-2 gap-4 h-[200px]">
+            <div className="bg-white border p-4 rounded-lg shadow-md grid grid-cols-1 gap-4 h-[300px]">
               <div>
                 <img src="https://cdn-icons-png.flaticon.com/512/3967/3967122.png" alt="Ownership Details" className="w-16 mb-4 rounded-lg" />
                 <h3 className="text-xl font-semibold mb-2">Ownership Details</h3>

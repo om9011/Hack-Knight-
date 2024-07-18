@@ -100,14 +100,15 @@ const WalletInfo = () => {
           </table>
           <button onClick={handlePayExpenses} className="mt-4 bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded-lg" disabled={Game.expensePaid}>
             {Game.expensePaid ? 'Expenses Paid' : 'Pay Expenses'}
-          </button></div>
+          </button>
+          </div>
       </div>
 
       {/* Notification Popup */}
       {notification && (
-        <div className={`fixed top-4 left-4 text-white py-2 px-4 rounded-md shadow-md ${notification.backgroundColor}`}>
-          <div className="flex justify-between items-center">
-            <div>{notification.message}</div>
+        <div className={`fixed top-24 right-4 text-white py-2 px-4 rounded-md shadow-md ${notification.backgroundColor}`}>
+          <div className="flex justify-between items-center gap-6">
+            <p>{notification.message}</p>
             <button onClick={closeNotification} className="text-white">&times;</button>
           </div>
         </div>
