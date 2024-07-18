@@ -1,14 +1,17 @@
 export const newsData = [
-  ["Intrest rates in the banks have reduced", "News 2", "News 3"],
+  [
+    "Intrest rates in the banks have reduced",
+    "3 men arrested for stealing mobile phones from a mall shop",
+  ],
   [
     "Imported Gold has been smuggled by unknown",
+    "Heavy rains to continue in coastal areas for the next 2 days",
     "Gold import taxes has been raised",
-    "News 3",
   ],
   [
     "The Development of a safe vaccine against COVID-19 hsa boosted confidence in stock market and has led to profit booking in metals",
-    "News 2",
-    "News 3",
+    "The new Iphone is a massive hit in the market",
+    "The popular social media platform gets banned for violating privacy policies",
   ],
 ];
 
