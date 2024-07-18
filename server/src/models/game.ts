@@ -117,7 +117,7 @@ class Game {
     this.monthNumber = 0;
     this.incomeCollected = false;
     this.expensePaid = false;
-    this.totalMonths = 2;
+    this.totalMonths = 3;
     this.isGameOver = false;
     this.taxPaid = 0;
     this.news = newsData;
