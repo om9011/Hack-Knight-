@@ -13,7 +13,7 @@ export const startGame = (req: Request, res: Response) => {
 
 export const invest = (req: Request, res: Response) => {
   const amount = req.body.amount;
-  const assetName = req.body.liabilityName;
+  const assetName = req.body.assetName;
   try {
     game.invest(amount, assetName);
     res.json(game);
