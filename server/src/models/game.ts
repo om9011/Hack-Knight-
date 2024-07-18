@@ -170,6 +170,7 @@ class Game {
       this.balance -= amount;
       this.assets.forEach((asset) => {
         if (asset.name == assetName) {
+          asset.investedAmount += amount;
           asset.currentValue += amount;
         }
       });
