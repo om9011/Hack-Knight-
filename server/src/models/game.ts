@@ -68,7 +68,7 @@ class Game {
         price: 50000,
         currentValue: 0,
         unit: "Per 10 grams",
-        percentChange: 1,
+        percentChange: 0,
       },
       {
         name: "STOCK MARKET (NIFTY 50)",
@@ -76,7 +76,7 @@ class Game {
         price: 24000,
         currentValue: 0,
         unit: "Points",
-        percentChange: 1,
+        percentChange: 0,
       },
       {
         name: "BITCOIN",
@@ -84,7 +84,7 @@ class Game {
         price: 65000,
         currentValue: 0,
         unit: "Per Coin",
-        percentChange: 1,
+        percentChange: 0,
       },
       {
         name: "REAL ESTATE",
@@ -92,7 +92,7 @@ class Game {
         price: 10000,
         currentValue: 0,
         unit: "Per Square Feet",
-        percentChange: 1,
+        percentChange: 0,
       },
       {
         name: "BANK DEPOSIT",
@@ -100,7 +100,7 @@ class Game {
         price: 50000,
         currentValue: 0,
         unit: "Per Deposit",
-        percentChange: 1,
+        percentChange: 0,
       },
     ];
     this.liabilities = [
@@ -110,7 +110,7 @@ class Game {
         monthyEmi: 10000,
       },
     ];
-    this.monthNumber = 1;
+    this.monthNumber = 0;
     this.incomeCollected = false;
     this.expensePaid = false;
     this.totalMonths = 2;
@@ -135,6 +135,7 @@ class Game {
         // Randomly increase or reduce the value of the asset
         let multiplier = 1 + Math.random() - 0.5;
         asset.currentValue = asset.currentValue * multiplier;
+        asset.percentChange = ((asset.currentValue - asset.price) / asset.price) * 100;
       });
     }
     if (this.monthNumber >= this.totalMonths) {
