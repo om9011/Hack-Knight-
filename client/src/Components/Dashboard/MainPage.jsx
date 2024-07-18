@@ -52,7 +52,7 @@ const MainPage = () => {
 
 
   // Colors for the pie chart
-  const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042'];
+  const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#A58042', '#F20F42'];
 
   return (
     <>
