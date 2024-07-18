@@ -140,9 +140,15 @@ class Game {
       this.assets.forEach((asset) => {
         // asset.currentValue = asset.currentValue * multiplier[this.monthNumber][this.assets.indexOf(asset)];
         // asset.percentChange = ((asset.currentValue - asset.investedAmount) / asset.investedAmount) * 100;
+        // if (multiplier[this.monthNumber][this.assets.indexOf(asset)] >= 1) {
+        //   asset.percentChange = (1 - multiplier[this.monthNumber][this.assets.indexOf(asset)]) * 100;
+        // }
+        // else {
+        //   asset.percentChange = multiplier[this.monthNumber][this.assets.indexOf(asset)];
+        // } 
         asset.percentChange = multiplier[this.monthNumber][this.assets.indexOf(asset)];
-        asset.currentValue = asset.currentValue * asset.percentChange;
-        asset.price = asset.price * asset.percentChange;
+        asset.currentValue = asset.currentValue + (asset.percentChange/100) * asset.currentValue;
+        asset.price = asset.price + (asset.percentChange/100) * asset.price;
       });
     }
     if (this.monthNumber >= this.totalMonths) {
