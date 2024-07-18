@@ -26,3 +26,11 @@ export const hintsData = [
     "Positive news about vaccine development boosts market confidence, leading to increased investment in stocks and profit booking in metals.",
   ],
 ];
+
+//  gold, stocks , bitcoin, real estate, bank deposit
+
+export const multiplier = {
+  1: [1.01, 1.01, 1.03, 1.07, 1.02],
+  2: [1.07, 0.97, 0.99, 0.98, 1],
+  3: [1.0, 1.03, 1.05, 1.1, 1.01],
+} as { [key: number]: number[] };

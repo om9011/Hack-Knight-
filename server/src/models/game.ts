@@ -1,4 +1,4 @@
-import { hintsData, newsData } from "./data";
+import { hintsData, multiplier, newsData } from "./data";
 
 interface Entry {
   description: string;
@@ -138,10 +138,11 @@ class Game {
       this.incomeCollected = false;
       this.expensePaid = false;
       this.assets.forEach((asset) => {
-        // Randomly increase or reduce the value of the asset
-        let multiplier = 1 + Math.random() - 0.5;
-        asset.currentValue = asset.currentValue * multiplier;
-        asset.percentChange = ((asset.currentValue - asset.investedAmount) / asset.investedAmount) * 100;
+        // asset.currentValue = asset.currentValue * multiplier[this.monthNumber][this.assets.indexOf(asset)];
+        // asset.percentChange = ((asset.currentValue - asset.investedAmount) / asset.investedAmount) * 100;
+        asset.percentChange = multiplier[this.monthNumber][this.assets.indexOf(asset)];
+        asset.currentValue = asset.currentValue * asset.percentChange;
+        asset.price = asset.price * asset.percentChange;
       });
     }
     if (this.monthNumber >= this.totalMonths) {
